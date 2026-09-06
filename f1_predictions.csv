@@ -1,0 +1,874 @@
+Year,Race,Driver,QualiPosition,RacePosition,RecentForm,PredictedPosition,PredictedRank,PredictedWinner,PredictedPodium,PredictedTop10,ActualWinner,ActualPodium,ActualTop10
+2022,Saudi Arabian Grand Prix,ALB,17.0,14.0,13.0,14.271253495441846,35.0,False,False,False,False,False,False
+2022,Australian Grand Prix,ALB,16.0,10.0,13.5,13.970340748761163,33.0,False,False,False,False,False,True
+2022,Emilia Romagna Grand Prix,ALB,20.0,11.0,12.333333333333334,15.437403781905957,19.0,False,False,False,False,False,False
+2022,Miami Grand Prix,ALB,18.0,9.0,11.666666666666666,14.308754195700462,35.0,False,False,False,False,False,True
+2022,Spanish Grand Prix,ALB,19.0,18.0,10.0,14.240890077390253,34.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,ALB,16.0,18.0,12.666666666666666,13.706928702339098,31.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,ALB,17.0,12.0,15.0,14.903442406854802,35.0,False,False,False,False,False,False
+2022,Canadian Grand Prix,ALB,12.0,13.0,16.0,12.924736989891677,29.0,False,False,False,False,False,False
+2022,British Grand Prix,ALB,16.0,20.0,14.333333333333334,14.233752795183229,33.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,ALB,11.0,12.0,15.0,12.149682559651279,27.0,False,False,False,False,False,False
+2022,French Grand Prix,ALB,15.0,13.0,15.0,13.985522457786962,16.0,False,False,False,False,False,False
+2022,Hungarian Grand Prix,ALB,17.0,17.0,15.0,14.903442406854802,34.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,ALB,9.0,10.0,14.0,10.915668154876958,21.0,False,False,False,False,False,True
+2022,Dutch Grand Prix,ALB,15.0,12.0,13.333333333333334,13.45869836494283,29.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,ALB,19.0,17.0,13.0,15.189173444509688,35.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,ALB,16.0,20.0,13.0,13.812293520907925,31.0,False,False,False,False,False,False
+2022,United States Grand Prix,ALB,11.0,13.0,16.333333333333332,12.571141833926582,25.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,ALB,19.0,12.0,16.666666666666668,16.348186448766775,40.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,ALB,11.0,15.0,15.0,12.149682559651279,25.0,False,False,False,False,False,False
+2022,Abu Dhabi Grand Prix,ALB,19.0,13.0,13.333333333333334,15.294538263078513,35.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,ALB,15.0,10.0,13.333333333333334,13.45869836494283,28.0,False,False,False,False,False,True
+2023,Saudi Arabian Grand Prix,ALB,17.0,19.0,12.666666666666666,14.165888676873019,33.0,False,False,False,False,False,False
+2023,Australian Grand Prix,ALB,8.0,19.0,14.0,10.456708180343037,17.0,False,False,False,False,False,False
+2023,Azerbaijan Grand Prix,ALB,13.0,12.0,16.0,13.383696964425598,28.0,False,False,False,False,False,False
+2023,Miami Grand Prix,ALB,11.0,14.0,16.666666666666668,12.676506652495409,25.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,ALB,13.0,14.0,15.0,13.06760250871912,27.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,ALB,18.0,16.0,13.333333333333334,14.835578288544593,37.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,ALB,10.0,7.0,14.666666666666666,11.58535776654853,24.0,False,False,False,False,False,True
+2023,Austrian Grand Prix,ALB,10.0,11.0,12.333333333333334,10.847804036566748,21.0,False,False,False,False,False,False
+2023,British Grand Prix,ALB,8.0,8.0,11.333333333333334,9.613789631792429,17.0,False,False,False,False,False,True
+2023,Hungarian Grand Prix,ALB,16.0,11.0,8.666666666666666,12.442550879513185,29.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,ALB,16.0,14.0,10.0,12.86401015378849,26.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,ALB,4.0,8.0,11.0,7.672584915087918,12.0,False,False,False,False,False,True
+2023,Italian Grand Prix,ALB,6.0,7.0,11.0,8.59050486415576,15.0,False,False,False,False,False,True
+2023,Singapore Grand Prix,ALB,14.0,11.0,9.666666666666666,11.84072538615182,24.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,ALB,13.0,16.0,8.666666666666666,11.065670955911422,22.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,ALB,14.0,13.0,11.333333333333334,12.367549478995953,13.0,False,False,False,False,False,False
+2023,United States Grand Prix,ALB,18.0,9.0,13.333333333333334,14.835578288544593,36.0,False,False,False,False,False,True
+2023,Mexico City Grand Prix,ALB,14.0,9.0,12.666666666666666,12.789008753271256,28.0,False,False,False,False,False,True
+2023,São Paulo Grand Prix,ALB,15.0,19.0,10.333333333333334,12.510414997823395,28.0,False,False,False,False,False,False
+2023,Las Vegas Grand Prix,ALB,6.0,12.0,12.333333333333334,9.011964138431065,6.0,False,False,True,False,False,False
+2023,Abu Dhabi Grand Prix,ALB,14.0,14.0,13.333333333333334,12.99973839040891,29.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,ALB,13.0,15.0,15.0,13.06760250871912,27.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,ALO,7.0,16.0,9.0,8.417275927276723,12.0,False,False,False,False,False,False
+2022,Australian Grand Prix,ALO,10.0,17.0,12.5,10.900486445851161,20.0,False,False,False,False,False,False
+2022,Emilia Romagna Grand Prix,ALO,5.0,19.0,14.0,9.079828256741274,8.0,False,False,True,False,False,False
+2022,Miami Grand Prix,ALO,11.0,11.0,17.333333333333332,12.88723628963306,26.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,ALO,17.0,9.0,15.666666666666666,15.114172043992454,38.0,False,False,False,False,False,True
+2022,Monaco Grand Prix,ALO,7.0,7.0,13.0,9.681653750102637,16.0,False,False,False,False,False,True
+2022,Azerbaijan Grand Prix,ALO,10.0,7.0,9.0,9.794155850878486,17.0,False,False,False,False,False,True
+2022,Canadian Grand Prix,ALO,2.0,9.0,7.666666666666667,5.701016780331814,5.0,False,False,True,False,False,True
+2022,British Grand Prix,ALO,7.0,5.0,7.666666666666667,7.995816653001419,14.0,False,False,False,False,False,True
+2022,Austrian Grand Prix,ALO,8.0,10.0,7.0,8.244046990397688,12.0,False,False,False,False,False,True
+2022,French Grand Prix,ALO,7.0,6.0,8.0,8.101181471570245,6.0,False,False,True,False,False,True
+2022,Hungarian Grand Prix,ALO,6.0,8.0,7.0,7.326127041329846,10.0,False,False,True,False,False,True
+2022,Belgian Grand Prix,ALO,6.0,5.0,8.0,7.642221497036324,14.0,False,False,False,False,False,True
+2022,Dutch Grand Prix,ALO,13.0,6.0,6.333333333333333,10.328117225929638,19.0,False,False,False,False,False,True
+2022,Italian Grand Prix,ALO,10.0,19.0,6.333333333333333,8.951237302327876,17.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,ALO,5.0,18.0,10.0,7.81545043391536,13.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,ALO,7.0,7.0,14.333333333333334,10.103113024377942,18.0,False,False,False,False,False,True
+2022,United States Grand Prix,ALO,9.0,7.0,14.666666666666666,11.12639779201461,20.0,False,False,False,False,False,True
+2022,Mexico City Grand Prix,ALO,9.0,19.0,10.666666666666666,9.862019969188696,17.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,ALO,7.0,5.0,11.0,9.04946483868968,17.0,False,False,False,False,False,True
+2022,Abu Dhabi Grand Prix,ALO,11.0,20.0,10.333333333333334,10.674575099687711,22.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,ALO,5.0,3.0,14.666666666666666,9.290557893878926,17.0,False,False,False,False,True,True
+2023,Saudi Arabian Grand Prix,ALO,3.0,3.0,9.333333333333334,6.686800847709867,8.0,False,False,True,False,True,True
+2023,Australian Grand Prix,ALO,4.0,3.0,8.666666666666666,6.935031185106134,9.0,False,False,True,False,True,True
+2023,Azerbaijan Grand Prix,ALO,6.0,4.0,3.0,6.061749218503932,9.0,False,False,True,False,False,True
+2023,Miami Grand Prix,ALO,2.0,3.0,3.3333333333333335,4.331274138937074,3.0,False,True,True,False,True,True
+2023,Monaco Grand Prix,ALO,2.0,2.0,3.3333333333333335,4.331274138937074,2.0,False,True,True,False,True,True
+2023,Spanish Grand Prix,ALO,9.0,7.0,3.0,7.438629142105694,10.0,False,False,True,False,False,True
+2023,Canadian Grand Prix,ALO,3.0,2.0,4.0,5.000963750608648,3.0,False,True,True,False,True,True
+2023,Austrian Grand Prix,ALO,7.0,5.0,3.6666666666666665,6.731438830175505,8.0,False,False,True,False,False,True
+2023,British Grand Prix,ALO,9.0,7.0,4.666666666666667,7.965453234949825,13.0,False,False,False,False,False,True
+2023,Hungarian Grand Prix,ALO,8.0,9.0,4.666666666666667,7.506493260415905,12.0,False,False,False,False,False,True
+2023,Belgian Grand Prix,ALO,9.0,5.0,7.0,8.703006964931609,17.0,False,False,False,False,False,True
+2023,Dutch Grand Prix,ALO,5.0,2.0,7.0,6.867167066795925,11.0,False,False,False,False,True,True
+2023,Italian Grand Prix,ALO,10.0,9.0,5.333333333333333,8.635142846621399,16.0,False,False,False,False,False,True
+2023,Singapore Grand Prix,ALO,7.0,15.0,5.333333333333333,7.258262923019635,11.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,ALO,10.0,8.0,8.666666666666666,9.688791032309659,16.0,False,False,False,False,False,True
+2023,Qatar Grand Prix,ALO,4.0,6.0,10.666666666666666,7.567220096519091,6.0,False,False,True,False,False,True
+2023,United States Grand Prix,ALO,17.0,16.0,9.666666666666666,13.217605309753583,28.0,False,False,False,False,False,False
+2023,Mexico City Grand Prix,ALO,13.0,18.0,10.0,11.487130230186727,23.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,ALO,4.0,3.0,13.333333333333334,8.4101386450697,14.0,False,False,False,False,True,True
+2023,Las Vegas Grand Prix,ALO,10.0,9.0,12.333333333333334,10.847804036566748,12.0,False,False,False,False,False,True
+2023,Abu Dhabi Grand Prix,ALO,7.0,7.0,10.0,8.733370382983201,12.0,False,False,False,False,False,True
+2024,Bahrain Grand Prix,ALO,6.0,9.0,6.333333333333333,7.115397404192193,10.0,False,False,True,False,False,True
+2022,Saudi Arabian Grand Prix,BOT,8.0,15.0,6.0,7.927952534691209,11.0,False,False,False,False,False,False
+2022,Australian Grand Prix,BOT,12.0,8.0,10.5,11.186217483506045,22.0,False,False,False,False,False,True
+2022,Emilia Romagna Grand Prix,BOT,8.0,5.0,9.666666666666666,9.086965538948297,9.0,False,False,True,False,False,True
+2022,Miami Grand Prix,BOT,5.0,7.0,9.333333333333334,7.604720796777708,8.0,False,False,True,False,False,True
+2022,Spanish Grand Prix,BOT,7.0,6.0,6.666666666666667,7.67972219729494,12.0,False,False,False,False,False,True
+2022,Monaco Grand Prix,BOT,12.0,9.0,6.0,9.763792432826893,18.0,False,False,False,False,False,True
+2022,Azerbaijan Grand Prix,BOT,15.0,11.0,7.333333333333333,11.56213163070396,24.0,False,False,False,False,False,False
+2022,Canadian Grand Prix,BOT,11.0,7.0,8.666666666666666,10.147751006843581,19.0,False,False,False,False,False,True
+2022,British Grand Prix,BOT,12.0,17.0,9.0,10.712075799946328,22.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,BOT,12.0,11.0,11.666666666666666,11.554994348496937,24.0,False,False,False,False,False,False
+2022,French Grand Prix,BOT,13.0,14.0,11.666666666666666,12.013954323030857,13.0,False,False,False,False,False,False
+2022,Hungarian Grand Prix,BOT,8.0,20.0,14.0,10.456708180343037,21.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,BOT,20.0,19.0,15.0,16.280322330456563,38.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,BOT,16.0,19.0,17.666666666666668,15.287400980871492,36.0,False,False,False,False,False,False
+2022,Italian Grand Prix,BOT,12.0,13.0,19.333333333333332,13.978385175579938,29.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,BOT,16.0,11.0,17.0,15.076671343733839,34.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,BOT,12.0,15.0,14.333333333333334,12.397912897047545,25.0,False,False,False,False,False,False
+2022,United States Grand Prix,BOT,10.0,19.0,13.0,11.0585336737044,19.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,BOT,6.0,10.0,15.0,9.854882686981673,16.0,False,False,False,False,False,True
+2022,São Paulo Grand Prix,BOT,18.0,9.0,14.666666666666666,15.257037562819898,36.0,False,False,False,False,False,True
+2022,Abu Dhabi Grand Prix,BOT,18.0,15.0,12.666666666666666,14.624848651406941,34.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,BOT,12.0,8.0,11.333333333333334,11.449629529928112,22.0,False,False,False,False,False,True
+2023,Saudi Arabian Grand Prix,BOT,14.0,18.0,10.666666666666666,12.1568198418583,25.0,False,False,False,False,False,False
+2023,Australian Grand Prix,BOT,19.0,11.0,13.666666666666666,15.39990308164734,37.0,False,False,False,False,False,False
+2023,Azerbaijan Grand Prix,BOT,14.0,18.0,12.333333333333334,12.683643934702431,27.0,False,False,False,False,False,False
+2023,Miami Grand Prix,BOT,10.0,13.0,15.666666666666666,11.901452222255008,23.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,BOT,15.0,11.0,14.0,13.669428002080483,30.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,BOT,16.0,19.0,14.0,14.128387976614404,33.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,BOT,15.0,10.0,14.333333333333334,13.774792820649308,33.0,False,False,False,False,False,True
+2023,Austrian Grand Prix,BOT,14.0,15.0,13.333333333333334,12.99973839040891,29.0,False,False,False,False,False,False
+2023,British Grand Prix,BOT,15.0,12.0,14.666666666666666,13.880157639218135,31.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,BOT,7.0,12.0,12.333333333333334,9.470924112964985,17.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,BOT,14.0,12.0,13.0,12.894373571840083,27.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,BOT,19.0,14.0,12.0,14.87307898880321,34.0,False,False,False,False,False,False
+2023,Italian Grand Prix,BOT,14.0,10.0,12.666666666666666,12.789008753271256,24.0,False,False,False,False,False,True
+2023,Singapore Grand Prix,BOT,16.0,17.0,12.0,13.496199065201447,31.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,BOT,16.0,20.0,13.666666666666666,14.023023158045577,34.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,BOT,9.0,8.0,15.666666666666666,11.442492247721088,12.0,False,False,False,False,False,True
+2023,United States Grand Prix,BOT,13.0,12.0,15.0,13.06760250871912,27.0,False,False,False,False,False,False
+2023,Mexico City Grand Prix,BOT,9.0,15.0,13.333333333333334,10.704938517739306,21.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,BOT,18.0,16.0,11.666666666666666,14.308754195700462,33.0,False,False,False,False,False,False
+2023,Las Vegas Grand Prix,BOT,8.0,17.0,14.333333333333334,10.562072998911862,9.0,False,False,True,False,False,False
+2023,Abu Dhabi Grand Prix,BOT,18.0,19.0,16.0,15.678496837095203,37.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,BOT,16.0,19.0,17.333333333333332,15.182036162302666,35.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,DEV,19.0,14.0,9.0,13.924795621683774,31.0,False,False,False,False,False,False
+2023,Saudi Arabian Grand Prix,DEV,18.0,14.0,11.5,14.256071786416049,34.0,False,False,False,False,False,False
+2023,Australian Grand Prix,DEV,15.0,15.0,12.333333333333334,13.142603909236351,32.0,False,False,False,False,False,False
+2023,Azerbaijan Grand Prix,DEV,20.0,20.0,14.333333333333334,16.069592693318913,39.0,False,False,False,False,False,False
+2023,Miami Grand Prix,DEV,15.0,18.0,16.333333333333332,14.406981732062265,37.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,DEV,12.0,12.0,17.666666666666668,13.451561082735807,29.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,DEV,14.0,14.0,16.666666666666668,14.053386576097171,31.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,DEV,18.0,18.0,14.666666666666666,15.257037562819898,35.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,DEV,20.0,17.0,14.666666666666666,16.17495751188774,38.0,False,False,False,False,False,False
+2023,British Grand Prix,DEV,18.0,17.0,16.333333333333332,15.783861655664028,37.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,GAS,9.0,8.0,20.0,12.812234889115828,27.0,False,False,False,False,False,True
+2022,Australian Grand Prix,GAS,11.0,9.0,14.0,11.8335881039448,24.0,False,False,False,False,False,True
+2022,Emilia Romagna Grand Prix,GAS,17.0,12.0,12.333333333333334,14.060523858304194,17.0,False,False,False,False,False,False
+2022,Miami Grand Prix,GAS,7.0,18.0,9.666666666666666,8.628005564414376,15.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,GAS,14.0,13.0,13.0,12.894373571840083,27.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,GAS,17.0,11.0,14.333333333333334,14.69271276971715,35.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,GAS,6.0,5.0,14.0,9.538788231275195,14.0,False,False,False,False,False,True
+2022,Canadian Grand Prix,GAS,16.0,14.0,9.666666666666666,12.758645335219663,27.0,False,False,False,False,False,False
+2022,British Grand Prix,GAS,11.0,16.0,10.0,10.569210281118885,20.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,GAS,10.0,15.0,11.666666666666666,10.637074399429094,20.0,False,False,False,False,False,False
+2022,French Grand Prix,GAS,16.0,12.0,15.0,14.444482432320882,17.0,False,False,False,False,False,False
+2022,Hungarian Grand Prix,GAS,19.0,12.0,14.333333333333334,15.610632718784991,37.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,GAS,12.0,9.0,13.0,11.976453622772242,22.0,False,False,False,False,False,True
+2022,Dutch Grand Prix,GAS,11.0,11.0,11.0,10.885304736825363,22.0,False,False,False,False,False,False
+2022,Italian Grand Prix,GAS,9.0,8.0,10.666666666666666,9.862019969188696,19.0,False,False,False,False,False,True
+2022,Singapore Grand Prix,GAS,7.0,10.0,9.333333333333334,8.52264074584555,16.0,False,False,False,False,False,True
+2022,Japanese Grand Prix,GAS,17.0,18.0,9.666666666666666,13.217605309753583,26.0,False,False,False,False,False,False
+2022,United States Grand Prix,GAS,13.0,14.0,12.0,12.119319141599684,23.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,GAS,14.0,11.0,14.0,13.210468027546561,32.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,GAS,12.0,14.0,14.333333333333334,12.397912897047545,27.0,False,False,False,False,False,False
+2022,Abu Dhabi Grand Prix,GAS,17.0,14.0,13.0,14.271253495441846,32.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,GAS,20.0,9.0,13.0,15.648133419043608,37.0,False,False,False,False,False,True
+2023,Saudi Arabian Grand Prix,GAS,10.0,9.0,12.333333333333334,10.847804036566748,20.0,False,False,False,False,False,True
+2023,Australian Grand Prix,GAS,9.0,13.0,10.666666666666666,9.862019969188696,16.0,False,False,False,False,False,False
+2023,Azerbaijan Grand Prix,GAS,19.0,14.0,10.333333333333334,14.346254895959078,32.0,False,False,False,False,False,False
+2023,Miami Grand Prix,GAS,5.0,8.0,12.0,8.447639345328318,14.0,False,False,False,False,False,True
+2023,Monaco Grand Prix,GAS,7.0,7.0,11.666666666666666,9.260194475827333,15.0,False,False,False,False,False,True
+2023,Spanish Grand Prix,GAS,4.0,10.0,9.666666666666666,7.251125640812613,8.0,False,False,True,False,False,True
+2023,Canadian Grand Prix,GAS,17.0,12.0,8.333333333333334,12.79614603547828,28.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,GAS,9.0,10.0,9.666666666666666,9.545925513482217,15.0,False,False,False,False,False,True
+2023,British Grand Prix,GAS,10.0,18.0,10.666666666666666,10.320979943722616,18.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,GAS,15.0,20.0,13.333333333333334,13.45869836494283,31.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,GAS,12.0,11.0,16.0,12.924736989891677,28.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,GAS,12.0,3.0,16.333333333333332,13.030101808460502,26.0,False,False,False,False,True,True
+2023,Italian Grand Prix,GAS,17.0,15.0,11.333333333333334,13.744429402597715,28.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,GAS,12.0,6.0,9.666666666666666,10.92280543708398,21.0,False,False,False,False,False,True
+2023,Japanese Grand Prix,GAS,12.0,10.0,8.0,10.39598134423985,19.0,False,False,False,False,False,True
+2023,Qatar Grand Prix,GAS,7.0,12.0,10.333333333333334,8.838735201552028,8.0,False,False,True,False,False,False
+2023,United States Grand Prix,GAS,7.0,6.0,9.333333333333334,8.52264074584555,15.0,False,False,False,False,False,True
+2023,Mexico City Grand Prix,GAS,11.0,11.0,9.333333333333334,10.358480643981233,19.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,GAS,13.0,7.0,9.666666666666666,11.3817654116179,22.0,False,False,False,False,False,True
+2023,Las Vegas Grand Prix,GAS,5.0,11.0,8.0,7.183261522502403,4.0,False,False,True,False,False,False
+2023,Abu Dhabi Grand Prix,GAS,10.0,13.0,9.666666666666666,10.00488548801614,19.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,GAS,20.0,18.0,10.333333333333334,14.805214870493,33.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,HAM,16.0,10.0,3.0,10.651348963843141,19.0,False,False,False,False,False,True
+2022,Australian Grand Prix,HAM,5.0,4.0,6.5,6.709119838942685,8.0,False,False,True,False,False,True
+2022,Emilia Romagna Grand Prix,HAM,13.0,13.0,5.666666666666667,10.117387588791988,11.0,False,False,False,False,False,False
+2022,Miami Grand Prix,HAM,6.0,6.0,9.0,7.958315952742803,11.0,False,False,False,False,False,True
+2022,Spanish Grand Prix,HAM,6.0,5.0,7.666666666666667,7.536856678467498,11.0,False,False,False,False,False,True
+2022,Monaco Grand Prix,HAM,8.0,8.0,8.0,8.560141446104165,13.0,False,False,False,False,False,True
+2022,Azerbaijan Grand Prix,HAM,7.0,4.0,6.333333333333333,7.574357378726114,11.0,False,False,False,False,False,True
+2022,Canadian Grand Prix,HAM,4.0,3.0,5.666666666666667,5.9867478179867,7.0,False,False,True,False,True,True
+2022,British Grand Prix,HAM,5.0,3.0,5.0,6.234978155382968,5.0,False,False,True,False,True,True
+2022,Austrian Grand Prix,HAM,9.0,3.0,3.3333333333333335,7.543993960674521,10.0,False,False,True,False,True,True
+2022,French Grand Prix,HAM,4.0,2.0,3.0,5.14382926943609,3.0,False,True,True,False,True,True
+2022,Hungarian Grand Prix,HAM,7.0,2.0,2.6666666666666665,6.415344374469027,8.0,False,False,True,False,True,True
+2022,Belgian Grand Prix,HAM,7.0,20.0,2.3333333333333335,6.309979555900201,7.0,False,False,True,False,False,False
+2022,Dutch Grand Prix,HAM,4.0,4.0,8.0,6.724301547968483,9.0,False,False,True,False,False,True
+2022,Italian Grand Prix,HAM,5.0,5.0,8.666666666666666,7.393991159640056,11.0,False,False,False,False,False,True
+2022,Singapore Grand Prix,HAM,3.0,9.0,9.666666666666666,6.7921656662786924,10.0,False,False,True,False,False,True
+2022,Japanese Grand Prix,HAM,6.0,5.0,6.0,7.010032585623367,10.0,False,False,True,False,False,True
+2022,United States Grand Prix,HAM,5.0,2.0,6.333333333333333,6.656437429658272,9.0,False,False,True,False,True,True
+2022,Mexico City Grand Prix,HAM,3.0,2.0,5.333333333333333,5.422423024883952,4.0,False,False,True,False,True,True
+2022,São Paulo Grand Prix,HAM,8.0,2.0,3.0,6.979669167571774,8.0,False,False,True,False,True,True
+2022,Abu Dhabi Grand Prix,HAM,5.0,18.0,2.0,5.2866947882635325,5.0,False,False,True,False,False,False
+2023,Bahrain Grand Prix,HAM,7.0,5.0,7.333333333333333,7.890451834432592,12.0,False,False,False,False,False,True
+2023,Saudi Arabian Grand Prix,HAM,8.0,5.0,8.333333333333334,8.665506264672992,15.0,False,False,False,False,False,True
+2023,Australian Grand Prix,HAM,3.0,2.0,9.333333333333334,6.686800847709867,7.0,False,False,True,False,True,True
+2023,Azerbaijan Grand Prix,HAM,5.0,6.0,4.0,5.918883699676489,7.0,False,False,True,False,False,True
+2023,Miami Grand Prix,HAM,13.0,6.0,4.333333333333333,9.695928314516681,18.0,False,False,False,False,False,True
+2023,Monaco Grand Prix,HAM,6.0,4.0,4.666666666666667,6.588573311348062,8.0,False,False,True,False,False,True
+2023,Spanish Grand Prix,HAM,5.0,2.0,5.333333333333333,6.340342973951794,7.0,False,False,True,False,True,True
+2023,Canadian Grand Prix,HAM,4.0,3.0,4.0,5.459923725142568,4.0,False,False,True,False,True,True
+2023,Austrian Grand Prix,HAM,5.0,8.0,3.0,5.602789243970011,4.0,False,False,True,False,False,True
+2023,British Grand Prix,HAM,7.0,3.0,4.333333333333333,6.942168467313157,10.0,False,False,True,False,True,True
+2023,Hungarian Grand Prix,HAM,1.0,4.0,4.666666666666667,4.293773438678459,2.0,False,True,True,False,False,True
+2023,Belgian Grand Prix,HAM,4.0,4.0,5.0,5.7760181808490465,5.0,False,False,True,False,False,True
+2023,Dutch Grand Prix,HAM,13.0,6.0,3.6666666666666665,9.48519867737903,17.0,False,False,False,False,False,True
+2023,Italian Grand Prix,HAM,8.0,6.0,4.666666666666667,7.506493260415905,12.0,False,False,False,False,False,True
+2023,Singapore Grand Prix,HAM,5.0,3.0,5.333333333333333,6.340342973951794,6.0,False,False,True,False,True,True
+2023,Japanese Grand Prix,HAM,7.0,5.0,5.0,7.152898104450809,12.0,False,False,False,False,False,True
+2023,Qatar Grand Prix,HAM,3.0,19.0,4.666666666666667,5.211693387746299,2.0,False,True,True,False,False,False
+2023,United States Grand Prix,HAM,3.0,19.0,9.0,6.58143602914104,8.0,False,False,True,False,False,False
+2023,Mexico City Grand Prix,HAM,6.0,2.0,14.333333333333334,9.644153049844022,15.0,False,False,False,False,True,True
+2023,São Paulo Grand Prix,HAM,5.0,8.0,13.333333333333334,8.869098619603623,15.0,False,False,False,False,False,True
+2023,Las Vegas Grand Prix,HAM,11.0,7.0,9.666666666666666,10.46384546255006,8.0,False,False,True,False,False,True
+2023,Abu Dhabi Grand Prix,HAM,11.0,9.0,5.666666666666667,9.199467639724144,15.0,False,False,False,False,False,True
+2024,Bahrain Grand Prix,HAM,9.0,7.0,8.0,9.019101420638087,15.0,False,False,False,False,False,True
+2022,Saudi Arabian Grand Prix,HUL,18.0,12.0,17.0,15.994591292801681,38.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,HUL,10.0,15.0,14.5,11.532675357264118,23.0,False,False,False,False,False,False
+2023,Saudi Arabian Grand Prix,HUL,11.0,12.0,14.666666666666666,12.044317741082452,22.0,False,False,False,False,False,False
+2023,Australian Grand Prix,HUL,10.0,7.0,13.0,11.0585336737044,21.0,False,False,False,False,False,True
+2023,Azerbaijan Grand Prix,HUL,17.0,17.0,11.333333333333334,13.744429402597715,30.0,False,False,False,False,False,False
+2023,Miami Grand Prix,HUL,12.0,15.0,12.0,11.660359167065764,22.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,HUL,18.0,17.0,13.0,14.730213469975768,36.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,HUL,8.0,15.0,16.333333333333332,11.194261910324819,23.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,HUL,2.0,15.0,15.666666666666666,8.229772425983642,12.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,HUL,8.0,20.0,15.666666666666666,10.983532273187167,23.0,False,False,False,False,False,False
+2023,British Grand Prix,HUL,11.0,13.0,16.666666666666668,12.676506652495409,28.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,HUL,10.0,14.0,16.0,12.006817040823835,22.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,HUL,20.0,18.0,15.666666666666666,16.491051967594217,39.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,HUL,15.0,12.0,15.0,13.985522457786962,30.0,False,False,False,False,False,False
+2023,Italian Grand Prix,HUL,13.0,17.0,14.666666666666666,12.962237690150292,25.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,HUL,9.0,13.0,15.666666666666666,11.442492247721088,22.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,HUL,18.0,14.0,14.0,15.046307925682246,36.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,HUL,15.0,16.0,14.666666666666666,13.880157639218135,15.0,False,False,False,False,False,False
+2023,United States Grand Prix,HUL,16.0,11.0,14.333333333333334,14.233752795183229,35.0,False,False,False,False,False,False
+2023,Mexico City Grand Prix,HUL,12.0,13.0,13.666666666666666,12.187183259909894,25.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,HUL,11.0,12.0,13.333333333333334,11.622858466807147,24.0,False,False,False,False,False,False
+2023,Las Vegas Grand Prix,HUL,13.0,19.0,12.0,12.119319141599684,15.0,False,False,False,False,False,False
+2023,Abu Dhabi Grand Prix,HUL,8.0,15.0,14.666666666666666,10.667437817480689,21.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,HUL,10.0,16.0,15.333333333333334,11.796087403686183,24.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,LAT,19.0,18.0,16.0,16.13745681162912,39.0,False,False,False,False,False,False
+2022,Australian Grand Prix,LAT,19.0,16.0,17.0,16.4535512673356,39.0,False,False,False,False,False,False
+2022,Emilia Romagna Grand Prix,LAT,18.0,16.0,16.666666666666668,15.889226474232855,20.0,False,False,False,False,False,False
+2022,Miami Grand Prix,LAT,19.0,14.0,16.666666666666668,16.348186448766775,39.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,LAT,20.0,16.0,15.333333333333334,16.385687149025394,39.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,LAT,19.0,15.0,15.333333333333334,15.926727174491472,39.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,LAT,18.0,15.0,15.0,15.362402381388724,38.0,False,False,False,False,False,False
+2022,Canadian Grand Prix,LAT,19.0,16.0,15.333333333333334,15.926727174491472,39.0,False,False,False,False,False,False
+2022,British Grand Prix,LAT,10.0,12.0,15.333333333333334,11.796087403686183,25.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,LAT,19.0,19.0,14.333333333333334,15.610632718784991,37.0,False,False,False,False,False,False
+2022,French Grand Prix,LAT,20.0,17.0,15.666666666666666,16.491051967594217,20.0,False,False,False,False,False,False
+2022,Hungarian Grand Prix,LAT,20.0,18.0,16.0,16.596416786163044,39.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,LAT,17.0,18.0,18.0,15.851725773974238,37.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,LAT,20.0,18.0,17.666666666666668,17.123240879007177,39.0,False,False,False,False,False,False
+2022,Italian Grand Prix,LAT,16.0,15.0,18.0,15.392765799440317,36.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,LAT,20.0,19.0,17.0,16.912511241869524,39.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,LAT,20.0,9.0,17.333333333333332,17.017876060438347,40.0,False,False,False,False,False,True
+2022,United States Grand Prix,LAT,20.0,17.0,14.333333333333334,16.069592693318913,39.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,LAT,20.0,18.0,15.0,16.280322330456563,38.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,LAT,16.0,16.0,14.666666666666666,14.339117613752055,34.0,False,False,False,False,False,False
+2022,Abu Dhabi Grand Prix,LAT,20.0,19.0,17.0,16.912511241869524,40.0,False,False,False,False,False,False
+2023,Italian Grand Prix,LAW,12.0,11.0,13.0,11.976453622772242,23.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,LAW,10.0,9.0,12.0,10.742439217997921,20.0,False,False,False,False,False,True
+2023,Japanese Grand Prix,LAW,11.0,11.0,11.0,10.885304736825363,20.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,LAW,18.0,17.0,10.333333333333334,13.887294921425157,16.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,LEC,2.0,2.0,1.0,3.593720408955291,1.0,True,True,True,False,True,True
+2022,Australian Grand Prix,LEC,1.0,1.0,1.5,3.29280766227461,2.0,False,True,True,True,True,True
+2022,Emilia Romagna Grand Prix,LEC,2.0,6.0,1.3333333333333333,3.6990852275241175,1.0,True,True,True,False,False,True
+2022,Miami Grand Prix,LEC,1.0,2.0,3.0,3.7669493458343277,2.0,False,True,True,False,True,True
+2022,Spanish Grand Prix,LEC,1.0,20.0,3.0,3.7669493458343277,2.0,False,True,True,False,False,False
+2022,Monaco Grand Prix,LEC,1.0,4.0,9.333333333333334,5.768880898642024,5.0,False,False,True,False,False,True
+2022,Azerbaijan Grand Prix,LEC,1.0,19.0,8.666666666666666,5.558151261504372,6.0,False,False,True,False,False,False
+2022,Canadian Grand Prix,LEC,15.0,5.0,14.333333333333334,13.774792820649308,34.0,False,False,False,False,False,True
+2022,British Grand Prix,LEC,3.0,4.0,9.333333333333334,6.686800847709867,8.0,False,False,True,False,False,True
+2022,Austrian Grand Prix,LEC,2.0,1.0,9.333333333333334,6.227840873175945,7.0,False,False,True,True,True,True
+2022,French Grand Prix,LEC,1.0,19.0,3.3333333333333335,3.8723141644031536,1.0,True,True,True,False,False,False
+2022,Hungarian Grand Prix,LEC,3.0,6.0,8.0,6.265341573434561,6.0,False,False,True,False,False,True
+2022,Belgian Grand Prix,LEC,4.0,6.0,8.666666666666666,6.935031185106134,10.0,False,False,True,False,False,True
+2022,Dutch Grand Prix,LEC,2.0,3.0,10.333333333333334,6.543935328882424,8.0,False,False,True,False,True,True
+2022,Italian Grand Prix,LEC,1.0,2.0,5.0,4.399138257247285,3.0,False,True,True,False,True,True
+2022,Singapore Grand Prix,LEC,1.0,2.0,3.6666666666666665,3.9776789829719794,1.0,True,True,True,False,True,True
+2022,Japanese Grand Prix,LEC,2.0,3.0,2.3333333333333335,4.0151796832305955,3.0,False,True,True,False,True,True
+2022,United States Grand Prix,LEC,2.0,3.0,2.3333333333333335,4.0151796832305955,1.0,True,True,True,False,True,True
+2022,Mexico City Grand Prix,LEC,7.0,6.0,2.6666666666666665,6.415344374469027,8.0,False,False,True,False,False,True
+2022,São Paulo Grand Prix,LEC,10.0,4.0,4.0,8.213683572346094,13.0,False,False,False,False,False,True
+2022,Abu Dhabi Grand Prix,LEC,3.0,2.0,4.333333333333333,5.106328569177474,4.0,False,False,True,False,True,True
+2023,Bahrain Grand Prix,LEC,3.0,19.0,4.0,5.000963750608648,4.0,False,False,True,False,False,False
+2023,Saudi Arabian Grand Prix,LEC,2.0,7.0,8.333333333333334,5.911746417469467,6.0,False,False,True,False,False,True
+2023,Australian Grand Prix,LEC,7.0,20.0,9.333333333333334,8.52264074584555,14.0,False,False,False,False,False,False
+2023,Azerbaijan Grand Prix,LEC,1.0,3.0,15.333333333333334,7.6654476328808965,12.0,False,False,False,False,True,True
+2023,Miami Grand Prix,LEC,7.0,7.0,10.0,8.733370382983201,16.0,False,False,False,False,False,True
+2023,Monaco Grand Prix,LEC,3.0,6.0,10.0,6.897530484847518,9.0,False,False,True,False,False,True
+2023,Spanish Grand Prix,LEC,19.0,11.0,5.333333333333333,12.765782617426686,26.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,LEC,11.0,4.0,8.0,9.937021369705928,15.0,False,False,False,False,False,True
+2023,Austrian Grand Prix,LEC,2.0,2.0,7.0,5.490287143194163,3.0,False,True,True,False,True,True
+2023,British Grand Prix,LEC,4.0,9.0,5.666666666666667,5.9867478179867,4.0,False,False,True,False,False,True
+2023,Hungarian Grand Prix,LEC,6.0,7.0,5.0,6.693938129916889,9.0,False,False,True,False,False,True
+2023,Belgian Grand Prix,LEC,2.0,3.0,6.0,5.174192687487684,4.0,False,False,True,False,True,True
+2023,Dutch Grand Prix,LEC,9.0,19.0,6.333333333333333,8.492277327793957,14.0,False,False,False,False,False,False
+2023,Italian Grand Prix,LEC,3.0,4.0,9.666666666666666,6.7921656662786924,9.0,False,False,True,False,False,True
+2023,Singapore Grand Prix,LEC,3.0,4.0,8.666666666666666,6.476071210572214,8.0,False,False,True,False,False,True
+2023,Japanese Grand Prix,LEC,4.0,4.0,9.0,7.040396003674961,11.0,False,False,False,False,False,True
+2023,Qatar Grand Prix,LEC,5.0,5.0,4.0,5.918883699676489,3.0,False,True,True,False,False,True
+2023,United States Grand Prix,LEC,1.0,20.0,4.333333333333333,4.188408620109632,3.0,False,True,True,False,False,False
+2023,Mexico City Grand Prix,LEC,1.0,3.0,9.666666666666666,5.874245717210851,5.0,False,False,True,False,True,True
+2023,São Paulo Grand Prix,LEC,2.0,20.0,9.333333333333334,6.227840873175945,4.0,False,False,True,False,False,False
+2023,Las Vegas Grand Prix,LEC,1.0,2.0,14.333333333333334,7.349353177174417,5.0,False,False,True,False,True,True
+2023,Abu Dhabi Grand Prix,LEC,2.0,2.0,8.333333333333334,5.911746417469467,6.0,False,False,True,False,True,True
+2024,Bahrain Grand Prix,LEC,2.0,4.0,8.0,5.806381598900641,6.0,False,False,True,False,False,True
+2022,Saudi Arabian Grand Prix,MAG,10.0,9.0,5.0,8.529778028052572,14.0,False,False,False,False,False,True
+2022,Australian Grand Prix,MAG,17.0,14.0,7.0,12.374686761202975,27.0,False,False,False,False,False,False
+2022,Emilia Romagna Grand Prix,MAG,4.0,9.0,9.333333333333334,7.145760822243787,4.0,False,False,True,False,False,True
+2022,Miami Grand Prix,MAG,16.0,16.0,10.666666666666666,13.074739790926142,27.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,MAG,8.0,17.0,13.0,10.140613724636559,18.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,MAG,13.0,20.0,14.0,12.75150805301264,26.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,MAG,16.0,17.0,17.666666666666668,15.287400980871492,37.0,False,False,False,False,False,False
+2022,Canadian Grand Prix,MAG,5.0,17.0,18.0,10.344206079567188,21.0,False,False,False,False,False,False
+2022,British Grand Prix,MAG,17.0,10.0,18.0,15.851725773974238,38.0,False,False,False,False,False,True
+2022,Austrian Grand Prix,MAG,6.0,8.0,14.666666666666666,9.749517868412847,16.0,False,False,False,False,False,True
+2022,French Grand Prix,MAG,10.0,18.0,11.666666666666666,10.637074399429094,10.0,False,False,True,False,False,False
+2022,Hungarian Grand Prix,MAG,13.0,16.0,12.0,12.119319141599684,23.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,MAG,18.0,16.0,14.0,15.046307925682246,34.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,MAG,18.0,15.0,16.666666666666668,15.889226474232855,37.0,False,False,False,False,False,False
+2022,Italian Grand Prix,MAG,19.0,16.0,15.666666666666666,16.0320919930603,37.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,MAG,9.0,12.0,15.666666666666666,11.442492247721088,23.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,MAG,18.0,14.0,14.333333333333334,15.151672744251071,37.0,False,False,False,False,False,False
+2022,United States Grand Prix,MAG,16.0,9.0,14.0,14.128387976614404,34.0,False,False,False,False,False,True
+2022,Mexico City Grand Prix,MAG,15.0,17.0,11.666666666666666,12.9318742720987,30.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,MAG,1.0,19.0,13.333333333333334,7.033258721467939,9.0,False,False,True,False,False,False
+2022,Abu Dhabi Grand Prix,MAG,16.0,17.0,15.0,14.444482432320882,33.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,MAG,17.0,13.0,17.666666666666668,15.746360955405413,38.0,False,False,False,False,False,False
+2023,Saudi Arabian Grand Prix,MAG,13.0,10.0,16.333333333333332,13.489061782994424,30.0,False,False,False,False,False,True
+2023,Australian Grand Prix,MAG,14.0,17.0,13.333333333333334,12.99973839040891,31.0,False,False,False,False,False,False
+2023,Azerbaijan Grand Prix,MAG,18.0,13.0,13.333333333333334,14.835578288544593,34.0,False,False,False,False,False,False
+2023,Miami Grand Prix,MAG,4.0,10.0,13.333333333333334,8.4101386450697,13.0,False,False,False,False,False,True
+2023,Monaco Grand Prix,MAG,17.0,19.0,13.333333333333334,14.376618314010672,34.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,MAG,17.0,18.0,14.0,14.587347951148324,36.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,MAG,14.0,17.0,15.666666666666666,13.737292120390691,32.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,MAG,19.0,18.0,18.0,16.769645723042082,40.0,False,False,False,False,False,False
+2023,British Grand Prix,MAG,19.0,19.0,17.666666666666668,16.66428090447325,40.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,MAG,19.0,17.0,18.0,16.769645723042082,40.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,MAG,13.0,15.0,18.0,14.015885875838554,31.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,MAG,18.0,16.0,17.0,15.994591292801681,38.0,False,False,False,False,False,False
+2023,Italian Grand Prix,MAG,19.0,18.0,16.0,16.13745681162912,38.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,MAG,6.0,10.0,16.333333333333332,10.276341961256978,19.0,False,False,False,False,False,True
+2023,Japanese Grand Prix,MAG,15.0,15.0,14.666666666666666,13.880157639218135,32.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,MAG,19.0,14.0,14.333333333333334,15.610632718784991,19.0,False,False,False,False,False,False
+2023,United States Grand Prix,MAG,14.0,14.0,13.0,12.894373571840083,26.0,False,False,False,False,False,False
+2023,Mexico City Grand Prix,MAG,17.0,19.0,14.333333333333334,14.69271276971715,37.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,MAG,14.0,18.0,15.666666666666666,13.737292120390691,30.0,False,False,False,False,False,False
+2023,Las Vegas Grand Prix,MAG,9.0,13.0,17.0,11.863951521996393,14.0,False,False,False,False,False,False
+2023,Abu Dhabi Grand Prix,MAG,17.0,20.0,16.666666666666668,15.430266499698934,36.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,MAG,15.0,12.0,17.0,14.617711369199919,32.0,False,False,False,False,False,False
+2022,Australian Grand Prix,MSC,15.0,13.0,11.0,12.721144634961046,30.0,False,False,False,False,False,False
+2022,Emilia Romagna Grand Prix,MSC,12.0,17.0,12.0,11.660359167065764,12.0,False,False,False,False,False,False
+2022,Miami Grand Prix,MSC,15.0,15.0,13.666666666666666,13.564063183511657,32.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,MSC,10.0,14.0,15.0,11.690722585117356,24.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,MSC,15.0,19.0,15.333333333333334,14.090887276355788,32.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,MSC,20.0,14.0,16.0,16.596416786163044,40.0,False,False,False,False,False,False
+2022,Canadian Grand Prix,MSC,6.0,19.0,15.666666666666666,10.065612324119325,17.0,False,False,False,False,False,False
+2022,British Grand Prix,MSC,19.0,8.0,17.333333333333332,16.55891608590443,39.0,False,False,False,False,False,True
+2022,Austrian Grand Prix,MSC,7.0,6.0,13.666666666666666,9.89238338724029,18.0,False,False,False,False,False,True
+2022,French Grand Prix,MSC,19.0,15.0,11.0,14.556984533096731,18.0,False,False,False,False,False,False
+2022,Hungarian Grand Prix,MSC,15.0,14.0,9.666666666666666,12.299685360685743,27.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,MSC,15.0,17.0,11.666666666666666,12.9318742720987,29.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,MSC,8.0,13.0,15.333333333333334,10.878167454618342,21.0,False,False,False,False,False,False
+2022,Italian Grand Prix,MSC,20.0,12.0,14.666666666666666,16.17495751188774,39.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,MSC,13.0,13.0,14.0,12.75150805301264,27.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,MSC,15.0,17.0,12.666666666666666,13.247968727805178,27.0,False,False,False,False,False,False
+2022,United States Grand Prix,MSC,19.0,15.0,14.0,15.505267900216166,37.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,MSC,16.0,16.0,15.0,14.444482432320882,36.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,MSC,20.0,13.0,16.0,16.596416786163044,40.0,False,False,False,False,False,False
+2022,Abu Dhabi Grand Prix,MSC,13.0,16.0,14.666666666666666,12.962237690150292,28.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,NOR,11.0,7.0,15.0,12.149682559651279,24.0,False,False,False,False,False,True
+2022,Australian Grand Prix,NOR,4.0,5.0,11.0,7.672584915087918,12.0,False,False,False,False,False,True
+2022,Emilia Romagna Grand Prix,NOR,3.0,3.0,9.0,6.58143602914104,2.0,False,True,True,False,True,True
+2022,Miami Grand Prix,NOR,8.0,19.0,5.0,7.6118580789847305,9.0,False,False,True,False,False,False
+2022,Spanish Grand Prix,NOR,11.0,8.0,9.0,10.253115825412408,19.0,False,False,False,False,False,True
+2022,Monaco Grand Prix,NOR,5.0,6.0,10.0,7.81545043391536,11.0,False,False,False,False,False,True
+2022,Azerbaijan Grand Prix,NOR,11.0,9.0,11.0,10.885304736825363,21.0,False,False,False,False,False,True
+2022,Canadian Grand Prix,NOR,14.0,15.0,7.666666666666667,11.208536474738866,23.0,False,False,False,False,False,False
+2022,British Grand Prix,NOR,6.0,6.0,10.0,8.274410408449281,16.0,False,False,False,False,False,True
+2022,Austrian Grand Prix,NOR,15.0,7.0,10.0,12.405050179254568,28.0,False,False,False,False,False,True
+2022,French Grand Prix,NOR,5.0,7.0,9.333333333333334,7.604720796777708,4.0,False,False,True,False,False,True
+2022,Hungarian Grand Prix,NOR,4.0,7.0,6.666666666666667,6.3028422736931775,7.0,False,False,True,False,False,True
+2022,Belgian Grand Prix,NOR,10.0,12.0,7.0,9.161966939465529,18.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,NOR,7.0,7.0,8.666666666666666,8.311911108707896,13.0,False,False,False,False,False,True
+2022,Italian Grand Prix,NOR,7.0,7.0,8.666666666666666,8.311911108707896,14.0,False,False,False,False,False,True
+2022,Singapore Grand Prix,NOR,6.0,4.0,8.666666666666666,7.852951134173976,14.0,False,False,False,False,False,True
+2022,Japanese Grand Prix,NOR,10.0,10.0,6.0,8.84587248375905,15.0,False,False,False,False,False,True
+2022,United States Grand Prix,NOR,8.0,6.0,7.0,8.244046990397688,14.0,False,False,False,False,False,True
+2022,Mexico City Grand Prix,NOR,8.0,9.0,6.666666666666667,8.138682171828862,12.0,False,False,False,False,False,True
+2022,São Paulo Grand Prix,NOR,4.0,18.0,8.333333333333334,6.8296663665373085,7.0,False,False,True,False,False,False
+2022,Abu Dhabi Grand Prix,NOR,7.0,6.0,11.0,9.04946483868968,14.0,False,False,False,False,False,True
+2023,Bahrain Grand Prix,NOR,11.0,17.0,11.0,10.885304736825363,20.0,False,False,False,False,False,False
+2023,Saudi Arabian Grand Prix,NOR,19.0,17.0,13.666666666666666,15.39990308164734,37.0,False,False,False,False,False,False
+2023,Australian Grand Prix,NOR,13.0,6.0,13.333333333333334,12.540778415874989,28.0,False,False,False,False,False,True
+2023,Azerbaijan Grand Prix,NOR,7.0,9.0,13.333333333333334,9.787018568671463,16.0,False,False,False,False,False,True
+2023,Miami Grand Prix,NOR,16.0,17.0,10.666666666666666,13.074739790926142,28.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,NOR,10.0,9.0,10.666666666666666,10.320979943722616,21.0,False,False,False,False,False,True
+2023,Spanish Grand Prix,NOR,3.0,17.0,11.666666666666666,7.424354577691649,9.0,False,False,True,False,False,False
+2023,Canadian Grand Prix,NOR,7.0,13.0,14.333333333333334,10.103113024377942,18.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,NOR,4.0,4.0,13.0,8.304773826500874,13.0,False,False,False,False,False,True
+2023,British Grand Prix,NOR,2.0,2.0,11.333333333333334,6.860029784588903,9.0,False,False,True,False,True,True
+2023,Hungarian Grand Prix,NOR,3.0,2.0,6.333333333333333,5.73851748059043,4.0,False,False,True,False,True,True
+2023,Belgian Grand Prix,NOR,7.0,7.0,2.6666666666666665,6.415344374469027,8.0,False,False,True,False,False,True
+2023,Dutch Grand Prix,NOR,2.0,7.0,3.6666666666666665,4.436638957505901,3.0,False,True,True,False,False,True
+2023,Italian Grand Prix,NOR,9.0,8.0,5.333333333333333,8.176182872087477,13.0,False,False,False,False,False,True
+2023,Singapore Grand Prix,NOR,4.0,2.0,7.333333333333333,6.51357191083083,9.0,False,False,True,False,True,True
+2023,Japanese Grand Prix,NOR,3.0,2.0,5.666666666666667,5.527787843452779,6.0,False,False,True,False,True,True
+2023,Qatar Grand Prix,NOR,10.0,3.0,4.0,8.213683572346094,7.0,False,False,True,False,True,True
+2023,United States Grand Prix,NOR,2.0,2.0,2.3333333333333335,4.0151796832305955,2.0,False,True,True,False,True,True
+2023,Mexico City Grand Prix,NOR,19.0,5.0,2.3333333333333335,11.81749925030725,24.0,False,False,False,False,False,True
+2023,São Paulo Grand Prix,NOR,7.0,2.0,3.3333333333333335,6.626074011606678,5.0,False,False,True,False,True,True
+2023,Las Vegas Grand Prix,NOR,16.0,20.0,3.0,10.651348963843141,10.0,False,False,True,False,False,False
+2023,Abu Dhabi Grand Prix,NOR,5.0,5.0,9.0,7.4993559782088814,11.0,False,False,False,False,False,True
+2024,Bahrain Grand Prix,NOR,7.0,6.0,9.0,8.417275927276723,13.0,False,False,False,False,False,True
+2022,Saudi Arabian Grand Prix,OCO,5.0,6.0,7.0,6.867167066795925,9.0,False,False,True,False,False,True
+2022,Australian Grand Prix,OCO,8.0,7.0,6.5,8.085999762544448,13.0,False,False,False,False,False,True
+2022,Emilia Romagna Grand Prix,OCO,19.0,14.0,6.666666666666667,13.18724189170199,16.0,False,False,False,False,False,False
+2022,Miami Grand Prix,OCO,20.0,8.0,9.0,14.383755596217695,36.0,False,False,False,False,False,True
+2022,Spanish Grand Prix,OCO,12.0,7.0,9.666666666666666,10.92280543708398,21.0,False,False,False,False,False,True
+2022,Monaco Grand Prix,OCO,10.0,12.0,9.666666666666666,10.00488548801614,19.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,OCO,13.0,10.0,9.0,11.171035774480249,22.0,False,False,False,False,False,True
+2022,Canadian Grand Prix,OCO,7.0,6.0,9.666666666666666,8.628005564414376,13.0,False,False,False,False,False,True
+2022,British Grand Prix,OCO,15.0,15.0,9.333333333333334,12.194320542116916,27.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,OCO,5.0,5.0,10.333333333333334,7.920815252484187,11.0,False,False,False,False,False,True
+2022,French Grand Prix,OCO,12.0,8.0,8.666666666666666,10.606710981377502,9.0,False,False,True,False,False,True
+2022,Hungarian Grand Prix,OCO,5.0,9.0,9.333333333333334,7.604720796777708,13.0,False,False,False,False,False,True
+2022,Belgian Grand Prix,OCO,5.0,7.0,7.333333333333333,6.97253188536475,11.0,False,False,False,False,False,True
+2022,Dutch Grand Prix,OCO,12.0,9.0,8.0,10.39598134423985,20.0,False,False,False,False,False,True
+2022,Italian Grand Prix,OCO,11.0,11.0,8.333333333333334,10.042386188274754,20.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,OCO,18.0,16.0,9.0,13.465835647149852,30.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,OCO,5.0,4.0,12.0,8.447639345328318,14.0,False,False,False,False,False,True
+2022,United States Grand Prix,OCO,18.0,11.0,10.333333333333334,13.887294921425157,33.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,OCO,10.0,8.0,10.333333333333334,10.215615125153791,18.0,False,False,False,False,False,True
+2022,São Paulo Grand Prix,OCO,6.0,8.0,7.666666666666667,7.536856678467498,12.0,False,False,False,False,False,True
+2022,Abu Dhabi Grand Prix,OCO,8.0,7.0,9.0,8.876235901810645,13.0,False,False,False,False,False,True
+2023,Bahrain Grand Prix,OCO,9.0,18.0,7.666666666666667,8.91373660206926,14.0,False,False,False,False,False,False
+2023,Saudi Arabian Grand Prix,OCO,7.0,8.0,11.0,9.04946483868968,16.0,False,False,False,False,False,True
+2023,Australian Grand Prix,OCO,11.0,14.0,11.0,10.885304736825363,19.0,False,False,False,False,False,False
+2023,Azerbaijan Grand Prix,OCO,12.0,15.0,13.333333333333334,12.081818441341067,26.0,False,False,False,False,False,False
+2023,Miami Grand Prix,OCO,8.0,9.0,12.333333333333334,9.929884087498905,19.0,False,False,False,False,False,True
+2023,Monaco Grand Prix,OCO,4.0,3.0,12.666666666666666,8.199409007932047,12.0,False,False,False,False,True,True
+2023,Spanish Grand Prix,OCO,7.0,8.0,9.0,8.417275927276723,14.0,False,False,False,False,False,True
+2023,Canadian Grand Prix,OCO,6.0,8.0,6.666666666666667,7.220762222761019,10.0,False,False,True,False,False,True
+2023,Austrian Grand Prix,OCO,12.0,14.0,6.333333333333333,9.869157251395718,17.0,False,False,False,False,False,False
+2023,British Grand Prix,OCO,13.0,20.0,10.0,11.487130230186727,24.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,OCO,12.0,19.0,14.0,12.29254807847872,26.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,OCO,15.0,8.0,17.666666666666668,14.82844100633757,33.0,False,False,False,False,False,True
+2023,Dutch Grand Prix,OCO,17.0,10.0,15.666666666666666,15.114172043992454,35.0,False,False,False,False,False,True
+2023,Italian Grand Prix,OCO,18.0,19.0,12.333333333333334,14.519483832838114,31.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,OCO,8.0,18.0,12.333333333333334,9.929884087498905,18.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,OCO,14.0,9.0,15.666666666666666,13.737292120390691,30.0,False,False,False,False,False,True
+2023,Qatar Grand Prix,OCO,8.0,7.0,15.333333333333334,10.878167454618342,10.0,False,False,True,False,False,True
+2023,United States Grand Prix,OCO,8.0,18.0,11.333333333333334,9.613789631792429,17.0,False,False,False,False,False,False
+2023,Mexico City Grand Prix,OCO,16.0,10.0,11.333333333333334,13.285469428063795,33.0,False,False,False,False,False,True
+2023,São Paulo Grand Prix,OCO,12.0,10.0,11.666666666666666,11.554994348496937,23.0,False,False,False,False,False,True
+2023,Las Vegas Grand Prix,OCO,17.0,4.0,12.666666666666666,14.165888676873019,17.0,False,False,False,False,False,True
+2023,Abu Dhabi Grand Prix,OCO,12.0,12.0,8.0,10.39598134423985,20.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,OCO,19.0,17.0,8.666666666666666,13.819430803114948,29.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,PER,1.0,4.0,18.0,8.508366181431505,13.0,False,False,False,False,False,True
+2022,Australian Grand Prix,PER,3.0,2.0,11.0,7.213624940553997,10.0,False,False,True,False,True,True
+2022,Emilia Romagna Grand Prix,PER,7.0,2.0,8.0,8.101181471570245,5.0,False,False,True,False,True,True
+2022,Miami Grand Prix,PER,4.0,4.0,2.6666666666666665,5.038464450867264,4.0,False,False,True,False,False,True
+2022,Spanish Grand Prix,PER,5.0,2.0,2.6666666666666665,5.497424425401185,6.0,False,False,True,False,True,True
+2022,Monaco Grand Prix,PER,3.0,1.0,2.6666666666666665,4.579504476333343,4.0,False,False,True,True,True,True
+2022,Azerbaijan Grand Prix,PER,2.0,2.0,2.3333333333333335,4.0151796832305955,2.0,False,True,True,False,True,True
+2022,Canadian Grand Prix,PER,13.0,20.0,1.6666666666666667,8.853009765966073,14.0,False,False,False,False,False,False
+2022,British Grand Prix,PER,4.0,2.0,7.666666666666667,6.618936729399657,7.0,False,False,True,False,True,True
+2022,Austrian Grand Prix,PER,13.0,20.0,8.0,10.85494131877377,22.0,False,False,False,False,False,False
+2022,French Grand Prix,PER,3.0,4.0,14.0,8.161908307673432,7.0,False,False,True,False,False,True
+2022,Hungarian Grand Prix,PER,11.0,5.0,8.666666666666666,10.147751006843581,20.0,False,False,False,False,False,True
+2022,Belgian Grand Prix,PER,3.0,2.0,9.666666666666666,6.7921656662786924,9.0,False,False,True,False,True,True
+2022,Dutch Grand Prix,PER,5.0,5.0,3.6666666666666665,5.8135188811076635,6.0,False,False,True,False,False,True
+2022,Italian Grand Prix,PER,4.0,6.0,4.0,5.459923725142568,5.0,False,False,True,False,False,True
+2022,Singapore Grand Prix,PER,2.0,1.0,4.333333333333333,4.647368594643552,2.0,False,True,True,True,True,True
+2022,Japanese Grand Prix,PER,4.0,2.0,4.0,5.459923725142568,5.0,False,False,True,False,True,True
+2022,United States Grand Prix,PER,4.0,4.0,3.0,5.14382926943609,5.0,False,False,True,False,False,True
+2022,Mexico City Grand Prix,PER,4.0,3.0,2.3333333333333335,4.933099632298438,3.0,False,True,True,False,True,True
+2022,São Paulo Grand Prix,PER,9.0,7.0,3.0,7.438629142105694,11.0,False,False,False,False,False,True
+2022,Abu Dhabi Grand Prix,PER,2.0,3.0,4.666666666666667,4.752733413212379,3.0,False,True,True,False,True,True
+2023,Bahrain Grand Prix,PER,2.0,2.0,4.333333333333333,4.647368594643552,3.0,False,True,True,False,True,True
+2023,Saudi Arabian Grand Prix,PER,1.0,1.0,4.0,4.083043801540806,2.0,False,True,True,True,True,True
+2023,Australian Grand Prix,PER,20.0,5.0,2.0,12.171094406272346,26.0,False,False,False,False,False,True
+2023,Azerbaijan Grand Prix,PER,3.0,1.0,2.6666666666666665,4.579504476333343,4.0,False,False,True,True,True,True
+2023,Miami Grand Prix,PER,1.0,2.0,2.3333333333333335,3.556219708696675,1.0,True,True,True,False,True,True
+2023,Monaco Grand Prix,PER,20.0,16.0,2.6666666666666665,12.381824043409997,25.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,PER,11.0,4.0,6.333333333333333,9.410197276861798,16.0,False,False,False,False,False,True
+2023,Canadian Grand Prix,PER,12.0,6.0,7.333333333333333,10.185251707102196,20.0,False,False,False,False,False,True
+2023,Austrian Grand Prix,PER,15.0,3.0,8.666666666666666,11.983590904979264,26.0,False,False,False,False,True,True
+2023,British Grand Prix,PER,15.0,6.0,4.333333333333333,10.613848263584524,21.0,False,False,False,False,False,True
+2023,Hungarian Grand Prix,PER,9.0,3.0,5.0,8.07081805351865,15.0,False,False,False,False,True,True
+2023,Belgian Grand Prix,PER,3.0,2.0,4.0,5.000963750608648,3.0,False,True,True,False,True,True
+2023,Dutch Grand Prix,PER,7.0,4.0,3.6666666666666665,6.731438830175505,10.0,False,False,True,False,False,True
+2023,Italian Grand Prix,PER,5.0,2.0,3.0,5.602789243970011,6.0,False,False,True,False,True,True
+2023,Singapore Grand Prix,PER,13.0,8.0,2.6666666666666665,9.169104221672551,17.0,False,False,False,False,False,True
+2023,Japanese Grand Prix,PER,5.0,19.0,4.666666666666667,6.129613336814142,8.0,False,False,True,False,False,False
+2023,Qatar Grand Prix,PER,13.0,10.0,9.666666666666666,11.3817654116179,11.0,False,False,False,False,False,True
+2023,United States Grand Prix,PER,9.0,4.0,12.333333333333334,10.388844062032828,18.0,False,False,False,False,False,True
+2023,Mexico City Grand Prix,PER,5.0,20.0,11.0,8.13154488962184,11.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,PER,9.0,4.0,11.333333333333334,10.072749606326349,20.0,False,False,False,False,False,True
+2023,Las Vegas Grand Prix,PER,12.0,3.0,9.333333333333334,10.817440618515153,11.0,False,False,False,False,True,True
+2023,Abu Dhabi Grand Prix,PER,9.0,4.0,9.0,9.335195876344565,17.0,False,False,False,False,False,True
+2024,Bahrain Grand Prix,PER,5.0,2.0,3.6666666666666665,5.8135188811076635,7.0,False,False,True,False,True,True
+2023,Saudi Arabian Grand Prix,PIA,9.0,15.0,20.0,12.812234889115828,28.0,False,False,False,False,False,False
+2023,Australian Grand Prix,PIA,16.0,8.0,17.5,15.234718571587077,36.0,False,False,False,False,False,True
+2023,Azerbaijan Grand Prix,PIA,10.0,11.0,14.333333333333334,11.479992947979705,23.0,False,False,False,False,False,False
+2023,Miami Grand Prix,PIA,19.0,19.0,11.333333333333334,14.662349351665558,38.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,PIA,11.0,10.0,12.666666666666666,11.412128829669495,24.0,False,False,False,False,False,True
+2023,Spanish Grand Prix,PIA,10.0,13.0,13.333333333333334,11.163898492273226,22.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,PIA,9.0,11.0,14.0,10.915668154876958,22.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,PIA,13.0,16.0,11.333333333333334,11.908589504462032,25.0,False,False,False,False,False,False
+2023,British Grand Prix,PIA,3.0,4.0,13.333333333333334,7.95117867053578,12.0,False,False,False,False,False,True
+2023,Hungarian Grand Prix,PIA,4.0,5.0,10.333333333333334,7.461855277950265,11.0,False,False,False,False,False,True
+2023,Belgian Grand Prix,PIA,6.0,20.0,8.333333333333334,7.74758631560515,15.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,PIA,8.0,9.0,9.666666666666666,9.086965538948297,16.0,False,False,False,False,False,True
+2023,Italian Grand Prix,PIA,7.0,12.0,11.333333333333334,9.154829657258507,18.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,PIA,17.0,7.0,13.666666666666666,14.481983132579497,33.0,False,False,False,False,False,True
+2023,Japanese Grand Prix,PIA,2.0,3.0,9.333333333333334,6.227840873175945,9.0,False,False,True,False,True,True
+2023,Qatar Grand Prix,PIA,6.0,2.0,7.333333333333333,7.431491859898672,5.0,False,False,True,False,True,True
+2023,United States Grand Prix,PIA,10.0,17.0,4.0,8.213683572346094,13.0,False,False,False,False,False,False
+2023,Mexico City Grand Prix,PIA,7.0,8.0,7.333333333333333,7.890451834432592,10.0,False,False,True,False,False,True
+2023,São Paulo Grand Prix,PIA,10.0,14.0,9.0,9.794155850878486,19.0,False,False,False,False,False,False
+2023,Las Vegas Grand Prix,PIA,19.0,10.0,13.0,15.189173444509688,19.0,False,False,False,False,False,True
+2023,Abu Dhabi Grand Prix,PIA,3.0,6.0,10.666666666666666,7.108260121985171,8.0,False,False,True,False,False,True
+2024,Bahrain Grand Prix,PIA,8.0,8.0,10.0,9.192330357517122,16.0,False,False,False,False,False,True
+2022,Saudi Arabian Grand Prix,RIC,12.0,17.0,14.0,12.29254807847872,26.0,False,False,False,False,False,False
+2022,Australian Grand Prix,RIC,7.0,6.0,15.5,10.471889889368834,18.0,False,False,False,False,False,True
+2022,Emilia Romagna Grand Prix,RIC,6.0,18.0,12.333333333333334,9.011964138431065,7.0,False,False,True,False,False,False
+2022,Miami Grand Prix,RIC,14.0,13.0,13.666666666666666,13.105103208977734,29.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,RIC,9.0,12.0,12.333333333333334,10.388844062032828,20.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,RIC,14.0,13.0,14.333333333333334,13.315832846115388,28.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,RIC,12.0,8.0,12.666666666666666,11.871088804203415,25.0,False,False,False,False,False,True
+2022,Canadian Grand Prix,RIC,9.0,11.0,11.0,9.967384787757522,16.0,False,False,False,False,False,False
+2022,British Grand Prix,RIC,14.0,13.0,10.666666666666666,12.1568198418583,26.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,RIC,16.0,9.0,10.666666666666666,13.074739790926142,30.0,False,False,False,False,False,True
+2022,French Grand Prix,RIC,11.0,9.0,11.0,10.885304736825363,11.0,False,False,False,False,False,True
+2022,Hungarian Grand Prix,RIC,9.0,15.0,10.333333333333334,9.75665515061987,19.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,RIC,11.0,15.0,11.0,10.885304736825363,20.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,RIC,17.0,17.0,13.0,14.271253495441846,32.0,False,False,False,False,False,False
+2022,Italian Grand Prix,RIC,8.0,17.0,15.666666666666666,10.983532273187167,21.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,RIC,17.0,5.0,16.333333333333332,15.324901681130108,36.0,False,False,False,False,False,True
+2022,Japanese Grand Prix,RIC,11.0,11.0,13.0,11.517493648238322,23.0,False,False,False,False,False,False
+2022,United States Grand Prix,RIC,17.0,16.0,11.0,13.639064584028889,31.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,RIC,11.0,7.0,10.666666666666666,10.779939918256538,22.0,False,False,False,False,False,True
+2022,São Paulo Grand Prix,RIC,14.0,20.0,11.333333333333334,12.367549478995953,26.0,False,False,False,False,False,False
+2022,Abu Dhabi Grand Prix,RIC,10.0,9.0,14.333333333333334,11.479992947979705,25.0,False,False,False,False,False,True
+2023,Hungarian Grand Prix,RIC,13.0,13.0,12.0,12.119319141599684,24.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,RIC,19.0,16.0,14.0,15.505267900216166,36.0,False,False,False,False,False,False
+2023,United States Grand Prix,RIC,15.0,15.0,12.666666666666666,13.247968727805178,29.0,False,False,False,False,False,False
+2023,Mexico City Grand Prix,RIC,4.0,7.0,14.666666666666666,8.831597919345004,13.0,False,False,False,False,False,True
+2023,São Paulo Grand Prix,RIC,17.0,13.0,12.666666666666666,14.165888676873019,32.0,False,False,False,False,False,False
+2023,Las Vegas Grand Prix,RIC,15.0,14.0,11.666666666666666,12.9318742720987,16.0,False,False,False,False,False,False
+2023,Abu Dhabi Grand Prix,RIC,15.0,11.0,11.333333333333334,12.826509453529873,27.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,RIC,14.0,13.0,12.666666666666666,12.789008753271256,26.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,RUS,6.0,5.0,4.0,6.3778436742104105,7.0,False,False,True,False,False,True
+2022,Australian Grand Prix,RUS,6.0,3.0,4.5,6.53589090206365,6.0,False,False,True,False,True,True
+2022,Emilia Romagna Grand Prix,RUS,11.0,4.0,4.0,8.672643546880014,6.0,False,False,True,False,False,True
+2022,Miami Grand Prix,RUS,12.0,5.0,4.0,9.131603521413936,17.0,False,False,False,False,False,True
+2022,Spanish Grand Prix,RUS,4.0,3.0,4.0,5.459923725142568,5.0,False,False,True,False,True,True
+2022,Monaco Grand Prix,RUS,6.0,5.0,4.0,6.3778436742104105,7.0,False,False,True,False,False,True
+2022,Azerbaijan Grand Prix,RUS,5.0,3.0,4.333333333333333,6.024248518245315,8.0,False,False,True,False,True,True
+2022,Canadian Grand Prix,RUS,8.0,4.0,3.6666666666666665,7.190398804709425,9.0,False,False,True,False,False,True
+2022,British Grand Prix,RUS,8.0,18.0,4.0,7.295763623278252,11.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,RUS,4.0,4.0,8.333333333333334,6.8296663665373085,9.0,False,False,True,False,False,True
+2022,French Grand Prix,RUS,6.0,3.0,8.666666666666666,7.852951134173976,5.0,False,False,True,False,True,True
+2022,Hungarian Grand Prix,RUS,1.0,3.0,8.333333333333334,5.452786442935546,3.0,False,True,True,False,True,True
+2022,Belgian Grand Prix,RUS,8.0,4.0,3.3333333333333335,7.0850339861405995,12.0,False,False,False,False,False,True
+2022,Dutch Grand Prix,RUS,6.0,2.0,3.3333333333333335,6.167114037072758,7.0,False,False,True,False,True,True
+2022,Italian Grand Prix,RUS,6.0,3.0,3.0,6.061749218503932,7.0,False,False,True,False,True,True
+2022,Singapore Grand Prix,RUS,11.0,14.0,3.0,8.356549091173536,15.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,RUS,8.0,8.0,6.333333333333333,8.033317353260035,13.0,False,False,False,False,False,True
+2022,United States Grand Prix,RUS,6.0,5.0,8.333333333333334,7.74758631560515,12.0,False,False,False,False,False,True
+2022,Mexico City Grand Prix,RUS,2.0,4.0,9.0,6.1224760546071195,6.0,False,False,True,False,False,True
+2022,São Paulo Grand Prix,RUS,3.0,1.0,5.666666666666667,5.527787843452779,3.0,False,True,True,True,True,True
+2022,Abu Dhabi Grand Prix,RUS,6.0,5.0,3.3333333333333335,6.167114037072758,7.0,False,False,True,False,False,True
+2023,Bahrain Grand Prix,RUS,6.0,7.0,3.3333333333333335,6.167114037072758,8.0,False,False,True,False,False,True
+2023,Saudi Arabian Grand Prix,RUS,4.0,4.0,4.333333333333333,5.565288543711395,4.0,False,False,True,False,False,True
+2023,Australian Grand Prix,RUS,2.0,18.0,5.333333333333333,4.963463050350031,3.0,False,True,True,False,False,False
+2023,Azerbaijan Grand Prix,RUS,11.0,8.0,9.666666666666666,10.46384546255006,19.0,False,False,False,False,False,True
+2023,Miami Grand Prix,RUS,6.0,4.0,10.0,8.274410408449281,12.0,False,False,False,False,False,True
+2023,Monaco Grand Prix,RUS,8.0,5.0,10.0,9.192330357517122,14.0,False,False,False,False,False,True
+2023,Spanish Grand Prix,RUS,12.0,3.0,5.666666666666667,9.658427614258066,17.0,False,False,False,False,True,True
+2023,Canadian Grand Prix,RUS,5.0,19.0,4.0,5.918883699676489,6.0,False,False,True,False,False,False
+2023,Austrian Grand Prix,RUS,11.0,7.0,9.0,10.253115825412408,19.0,False,False,False,False,False,True
+2023,British Grand Prix,RUS,6.0,5.0,9.666666666666666,8.169045589880454,15.0,False,False,False,False,False,True
+2023,Hungarian Grand Prix,RUS,18.0,6.0,10.333333333333334,13.887294921425157,32.0,False,False,False,False,False,True
+2023,Belgian Grand Prix,RUS,8.0,6.0,6.0,7.927952534691209,16.0,False,False,False,False,False,True
+2023,Dutch Grand Prix,RUS,3.0,17.0,5.666666666666667,5.527787843452779,5.0,False,False,True,False,False,False
+2023,Italian Grand Prix,RUS,4.0,5.0,9.666666666666666,7.251125640812613,10.0,False,False,True,False,False,True
+2023,Singapore Grand Prix,RUS,2.0,16.0,9.333333333333334,6.227840873175945,5.0,False,False,True,False,False,False
+2023,Japanese Grand Prix,RUS,8.0,7.0,12.666666666666666,10.035248906067732,17.0,False,False,False,False,False,True
+2023,Qatar Grand Prix,RUS,2.0,4.0,9.333333333333334,6.227840873175945,4.0,False,False,True,False,False,True
+2023,United States Grand Prix,RUS,5.0,5.0,9.0,7.4993559782088814,11.0,False,False,False,False,False,True
+2023,Mexico City Grand Prix,RUS,8.0,6.0,5.333333333333333,7.717222897553556,9.0,False,False,True,False,False,True
+2023,São Paulo Grand Prix,RUS,6.0,15.0,5.0,6.693938129916889,6.0,False,False,True,False,False,False
+2023,Las Vegas Grand Prix,RUS,4.0,8.0,8.666666666666666,6.935031185106134,3.0,False,True,True,False,False,True
+2023,Abu Dhabi Grand Prix,RUS,4.0,3.0,9.666666666666666,7.251125640812613,10.0,False,False,True,False,True,True
+2024,Bahrain Grand Prix,RUS,3.0,5.0,8.666666666666666,6.476071210572214,9.0,False,False,True,False,False,True
+2022,Saudi Arabian Grand Prix,SAI,3.0,3.0,2.0,4.368774839195691,3.0,False,True,True,False,True,True
+2022,Australian Grand Prix,SAI,9.0,20.0,2.5,7.280581914252455,11.0,False,False,False,False,False,False
+2022,Emilia Romagna Grand Prix,SAI,10.0,20.0,8.333333333333334,9.583426213740834,10.0,False,False,True,False,False,False
+2022,Miami Grand Prix,SAI,2.0,3.0,14.333333333333334,7.8083131517083375,10.0,False,False,True,False,True,True
+2022,Spanish Grand Prix,SAI,3.0,4.0,14.333333333333334,8.267273126242259,13.0,False,False,False,False,False,True
+2022,Monaco Grand Prix,SAI,2.0,2.0,9.0,6.1224760546071195,6.0,False,False,True,False,True,True
+2022,Azerbaijan Grand Prix,SAI,4.0,20.0,3.0,5.14382926943609,5.0,False,False,True,False,False,False
+2022,Canadian Grand Prix,SAI,3.0,2.0,8.666666666666666,6.476071210572214,8.0,False,False,True,False,True,True
+2022,British Grand Prix,SAI,1.0,1.0,8.0,5.34742162436672,3.0,False,True,True,True,True,True
+2022,Austrian Grand Prix,SAI,3.0,18.0,7.666666666666667,6.159976754865736,6.0,False,False,True,False,False,False
+2022,French Grand Prix,SAI,9.0,5.0,7.0,8.703006964931609,8.0,False,False,True,False,False,True
+2022,Hungarian Grand Prix,SAI,2.0,4.0,8.0,5.806381598900641,5.0,False,False,True,False,False,True
+2022,Belgian Grand Prix,SAI,2.0,3.0,9.0,6.1224760546071195,6.0,False,False,True,False,True,True
+2022,Dutch Grand Prix,SAI,3.0,8.0,4.0,5.000963750608648,4.0,False,False,True,False,False,True
+2022,Italian Grand Prix,SAI,3.0,4.0,5.0,5.317058206315126,4.0,False,False,True,False,False,True
+2022,Singapore Grand Prix,SAI,4.0,3.0,5.0,5.7760181808490465,4.0,False,False,True,False,True,True
+2022,Japanese Grand Prix,SAI,3.0,19.0,5.0,5.317058206315126,4.0,False,False,True,False,False,False
+2022,United States Grand Prix,SAI,1.0,20.0,8.666666666666666,5.558151261504372,6.0,False,False,True,False,False,False
+2022,Mexico City Grand Prix,SAI,5.0,5.0,14.0,9.079828256741274,14.0,False,False,False,False,False,True
+2022,São Paulo Grand Prix,SAI,5.0,3.0,14.666666666666666,9.290557893878926,18.0,False,False,False,False,True,True
+2022,Abu Dhabi Grand Prix,SAI,4.0,4.0,9.333333333333334,7.145760822243787,9.0,False,False,True,False,False,True
+2023,Bahrain Grand Prix,SAI,4.0,4.0,4.0,5.459923725142568,5.0,False,False,True,False,False,True
+2023,Saudi Arabian Grand Prix,SAI,5.0,6.0,3.6666666666666665,5.8135188811076635,5.0,False,False,True,False,False,True
+2023,Australian Grand Prix,SAI,5.0,12.0,4.666666666666667,6.129613336814142,4.0,False,False,True,False,False,False
+2023,Azerbaijan Grand Prix,SAI,4.0,5.0,7.333333333333333,6.51357191083083,10.0,False,False,True,False,False,True
+2023,Miami Grand Prix,SAI,3.0,5.0,7.666666666666667,6.159976754865736,6.0,False,False,True,False,False,True
+2023,Monaco Grand Prix,SAI,5.0,8.0,7.333333333333333,6.97253188536475,10.0,False,False,True,False,False,True
+2023,Spanish Grand Prix,SAI,2.0,5.0,6.0,5.174192687487684,3.0,False,True,True,False,False,True
+2023,Canadian Grand Prix,SAI,8.0,5.0,6.0,7.927952534691209,11.0,False,False,False,False,False,True
+2023,Austrian Grand Prix,SAI,3.0,6.0,6.0,5.633152662021605,5.0,False,False,True,False,False,True
+2023,British Grand Prix,SAI,5.0,10.0,5.333333333333333,6.340342973951794,6.0,False,False,True,False,False,True
+2023,Hungarian Grand Prix,SAI,11.0,8.0,7.0,9.620926913999451,18.0,False,False,False,False,False,True
+2023,Belgian Grand Prix,SAI,5.0,19.0,8.0,7.183261522502403,13.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,SAI,6.0,5.0,12.333333333333334,9.011964138431065,15.0,False,False,False,False,False,True
+2023,Italian Grand Prix,SAI,1.0,3.0,10.666666666666666,6.190340172917329,8.0,False,False,True,False,True,True
+2023,Singapore Grand Prix,SAI,1.0,1.0,9.0,5.663516080073198,3.0,False,True,True,True,True,True
+2023,Japanese Grand Prix,SAI,6.0,6.0,3.0,6.061749218503932,7.0,False,False,True,False,False,True
+2023,Qatar Grand Prix,SAI,12.0,20.0,3.3333333333333335,8.920873884276283,9.0,False,False,True,False,False,False
+2023,United States Grand Prix,SAI,4.0,3.0,9.0,7.040396003674961,10.0,False,False,True,False,True,True
+2023,Mexico City Grand Prix,SAI,2.0,4.0,9.666666666666666,6.333205691744771,7.0,False,False,True,False,False,True
+2023,São Paulo Grand Prix,SAI,8.0,6.0,9.0,8.876235901810645,16.0,False,False,False,False,False,True
+2023,Las Vegas Grand Prix,SAI,2.0,6.0,4.333333333333333,4.647368594643552,2.0,False,True,True,False,False,True
+2023,Abu Dhabi Grand Prix,SAI,16.0,18.0,5.333333333333333,11.388902693824923,24.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,SAI,4.0,3.0,10.0,7.3564904593814395,11.0,False,False,False,False,True,True
+2023,Saudi Arabian Grand Prix,SAR,20.0,16.0,12.0,15.33203896333713,36.0,False,False,False,False,False,False
+2023,Australian Grand Prix,SAR,18.0,16.0,14.0,15.046307925682246,35.0,False,False,False,False,False,False
+2023,Azerbaijan Grand Prix,SAR,15.0,16.0,14.666666666666666,13.880157639218135,31.0,False,False,False,False,False,False
+2023,Miami Grand Prix,SAR,20.0,20.0,16.0,16.596416786163044,40.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,SAR,16.0,18.0,17.333333333333332,15.182036162302666,37.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,SAR,20.0,20.0,18.0,17.228605697576,40.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,SAR,19.0,20.0,19.333333333333332,17.19110499731738,40.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,SAR,18.0,13.0,19.333333333333332,16.732145022783463,39.0,False,False,False,False,False,False
+2023,British Grand Prix,SAR,14.0,11.0,17.666666666666668,14.36948103180365,34.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,SAR,20.0,18.0,14.666666666666666,16.17495751188774,38.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,SAR,18.0,17.0,14.0,15.046307925682246,35.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,SAR,10.0,20.0,15.333333333333334,11.796087403686183,24.0,False,False,False,False,False,False
+2023,Italian Grand Prix,SAR,15.0,13.0,18.333333333333332,15.039170643475222,35.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,SAR,18.0,14.0,16.666666666666668,15.889226474232855,38.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,SAR,20.0,17.0,15.666666666666666,16.491051967594217,39.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,SAR,16.0,18.0,14.666666666666666,14.339117613752055,17.0,False,False,False,False,False,False
+2023,United States Grand Prix,SAR,20.0,10.0,16.333333333333332,16.70178160473187,40.0,False,False,False,False,False,True
+2023,Mexico City Grand Prix,SAR,20.0,16.0,15.0,16.280322330456563,39.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,SAR,19.0,11.0,14.666666666666666,15.715997537353818,39.0,False,False,False,False,False,False
+2023,Las Vegas Grand Prix,SAR,7.0,16.0,12.333333333333334,9.470924112964985,7.0,False,False,True,False,False,False
+2023,Abu Dhabi Grand Prix,SAR,20.0,16.0,14.333333333333334,16.069592693318913,39.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,SAR,18.0,20.0,14.333333333333334,15.151672744251071,34.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,STR,15.0,13.0,12.0,13.037239090667526,29.0,False,False,False,False,False,False
+2022,Australian Grand Prix,STR,20.0,12.0,12.5,15.49008619119037,38.0,False,False,False,False,False,False
+2022,Emilia Romagna Grand Prix,STR,15.0,10.0,12.333333333333334,13.142603909236351,15.0,False,False,False,False,False,True
+2022,Miami Grand Prix,STR,10.0,10.0,11.666666666666666,10.637074399429094,20.0,False,False,False,False,False,True
+2022,Spanish Grand Prix,STR,18.0,15.0,10.666666666666666,13.992659739993984,30.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,STR,18.0,14.0,11.666666666666666,14.308754195700462,33.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,STR,19.0,16.0,13.0,15.189173444509688,36.0,False,False,False,False,False,False
+2022,Canadian Grand Prix,STR,18.0,10.0,15.0,15.362402381388724,36.0,False,False,False,False,False,True
+2022,British Grand Prix,STR,20.0,11.0,13.333333333333334,15.753498237612435,36.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,STR,17.0,13.0,12.333333333333334,14.060523858304194,33.0,False,False,False,False,False,False
+2022,French Grand Prix,STR,17.0,10.0,11.333333333333334,13.744429402597715,15.0,False,False,False,False,False,True
+2022,Hungarian Grand Prix,STR,14.0,11.0,11.333333333333334,12.367549478995953,28.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,STR,14.0,11.0,11.333333333333334,12.367549478995953,23.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,STR,10.0,10.0,10.666666666666666,10.320979943722616,18.0,False,False,False,False,False,True
+2022,Italian Grand Prix,STR,18.0,18.0,10.666666666666666,13.992659739993984,30.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,STR,12.0,6.0,13.0,11.976453622772242,26.0,False,False,False,False,False,True
+2022,Japanese Grand Prix,STR,19.0,12.0,11.333333333333334,14.662349351665558,35.0,False,False,False,False,False,False
+2022,United States Grand Prix,STR,7.0,18.0,12.0,9.36555929439616,16.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,STR,18.0,15.0,12.0,14.41411901426929,34.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,STR,15.0,10.0,15.0,13.985522457786962,31.0,False,False,False,False,False,True
+2022,Abu Dhabi Grand Prix,STR,14.0,8.0,14.333333333333334,13.315832846115388,31.0,False,False,False,False,False,True
+2023,Bahrain Grand Prix,STR,8.0,6.0,11.0,9.508424813223602,18.0,False,False,False,False,False,True
+2023,Saudi Arabian Grand Prix,STR,6.0,20.0,8.0,7.642221497036324,10.0,False,False,True,False,False,False
+2023,Australian Grand Prix,STR,6.0,4.0,11.333333333333334,8.695869682724586,15.0,False,False,False,False,False,True
+2023,Azerbaijan Grand Prix,STR,9.0,7.0,10.0,9.651290332051044,15.0,False,False,False,False,False,True
+2023,Miami Grand Prix,STR,18.0,12.0,10.333333333333334,13.887294921425157,33.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,STR,14.0,20.0,7.666666666666667,11.208536474738866,23.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,STR,6.0,6.0,13.0,9.222693775568716,15.0,False,False,False,False,False,True
+2023,Canadian Grand Prix,STR,13.0,9.0,12.666666666666666,12.330048778737336,25.0,False,False,False,False,False,True
+2023,Austrian Grand Prix,STR,6.0,9.0,11.666666666666666,8.801234501293411,14.0,False,False,False,False,False,True
+2023,British Grand Prix,STR,12.0,14.0,8.0,10.39598134423985,19.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,STR,14.0,10.0,10.666666666666666,12.1568198418583,25.0,False,False,False,False,False,True
+2023,Belgian Grand Prix,STR,10.0,9.0,11.0,10.426344762291443,19.0,False,False,False,False,False,True
+2023,Dutch Grand Prix,STR,11.0,11.0,11.0,10.885304736825363,23.0,False,False,False,False,False,False
+2023,Italian Grand Prix,STR,20.0,16.0,10.0,14.699850051924173,33.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,STR,17.0,18.0,12.0,13.955159039735367,33.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,STR,17.0,11.0,15.0,14.903442406854802,18.0,False,False,False,False,False,False
+2023,United States Grand Prix,STR,19.0,7.0,15.0,15.821362355922645,38.0,False,False,False,False,False,True
+2023,Mexico City Grand Prix,STR,18.0,17.0,12.0,14.41411901426929,35.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,STR,3.0,5.0,11.666666666666666,7.424354577691649,10.0,False,False,True,False,False,True
+2023,Las Vegas Grand Prix,STR,14.0,5.0,9.666666666666666,11.84072538615182,13.0,False,False,False,False,False,True
+2023,Abu Dhabi Grand Prix,STR,13.0,10.0,9.0,11.171035774480249,23.0,False,False,False,False,False,True
+2024,Bahrain Grand Prix,STR,12.0,10.0,6.666666666666667,9.974522069964545,19.0,False,False,False,False,False,True
+2022,Saudi Arabian Grand Prix,TSU,20.0,19.0,8.0,14.067661140511216,32.0,False,False,False,False,False,False
+2022,Australian Grand Prix,TSU,13.0,15.0,13.5,12.593460825159402,29.0,False,False,False,False,False,False
+2022,Emilia Romagna Grand Prix,TSU,16.0,7.0,14.0,14.128387976614404,18.0,False,False,False,False,False,True
+2022,Miami Grand Prix,TSU,9.0,12.0,13.666666666666666,10.810303336308131,21.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,TSU,13.0,10.0,11.333333333333334,11.908589504462032,25.0,False,False,False,False,False,True
+2022,Monaco Grand Prix,TSU,11.0,17.0,9.666666666666666,10.46384546255006,22.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,TSU,8.0,13.0,13.0,10.140613724636559,18.0,False,False,False,False,False,False
+2022,Canadian Grand Prix,TSU,20.0,18.0,13.333333333333334,15.753498237612435,38.0,False,False,False,False,False,False
+2022,British Grand Prix,TSU,13.0,14.0,16.0,13.383696964425598,29.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,TSU,14.0,16.0,15.0,13.52656248325304,31.0,False,False,False,False,False,False
+2022,French Grand Prix,TSU,8.0,20.0,16.0,11.088897091755994,12.0,False,False,False,False,False,False
+2022,Hungarian Grand Prix,TSU,16.0,19.0,16.666666666666668,14.971306525165012,35.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,TSU,19.0,13.0,18.333333333333332,16.875010541610905,40.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,TSU,9.0,20.0,17.333333333333332,11.96931634056522,25.0,False,False,False,False,False,False
+2022,Italian Grand Prix,TSU,15.0,14.0,17.333333333333332,14.723076187768743,34.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,TSU,10.0,15.0,15.666666666666666,11.901452222255008,25.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,TSU,13.0,13.0,16.333333333333332,13.489061782994424,28.0,False,False,False,False,False,False
+2022,United States Grand Prix,TSU,15.0,10.0,14.0,13.669428002080483,32.0,False,False,False,False,False,True
+2022,Mexico City Grand Prix,TSU,13.0,20.0,12.666666666666666,12.330048778737336,26.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,TSU,19.0,17.0,14.333333333333334,15.610632718784991,38.0,False,False,False,False,False,False
+2022,Abu Dhabi Grand Prix,TSU,12.0,11.0,15.666666666666666,12.81937217132285,26.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,TSU,14.0,11.0,16.0,13.842656938959518,30.0,False,False,False,False,False,False
+2023,Saudi Arabian Grand Prix,TSU,16.0,11.0,13.0,13.812293520907925,31.0,False,False,False,False,False,False
+2023,Australian Grand Prix,TSU,12.0,10.0,11.0,11.344264711359285,23.0,False,False,False,False,False,True
+2023,Azerbaijan Grand Prix,TSU,8.0,10.0,10.666666666666666,9.403059994654775,13.0,False,False,False,False,False,True
+2023,Miami Grand Prix,TSU,17.0,11.0,10.333333333333334,13.428334946891237,31.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,TSU,9.0,15.0,10.333333333333334,9.75665515061987,17.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,TSU,15.0,12.0,12.0,13.037239090667526,28.0,False,False,False,False,False,False
+2023,Canadian Grand Prix,TSU,16.0,14.0,12.666666666666666,13.706928702339098,31.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,TSU,16.0,19.0,13.666666666666666,14.023023158045577,32.0,False,False,False,False,False,False
+2023,British Grand Prix,TSU,16.0,16.0,15.0,14.444482432320882,35.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,TSU,17.0,15.0,16.333333333333332,15.324901681130108,36.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,TSU,11.0,10.0,16.666666666666668,12.676506652495409,24.0,False,False,False,False,False,True
+2023,Dutch Grand Prix,TSU,14.0,15.0,13.666666666666666,13.105103208977734,27.0,False,False,False,False,False,False
+2023,Italian Grand Prix,TSU,11.0,20.0,13.333333333333334,11.622858466807147,22.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,TSU,15.0,19.0,15.0,13.985522457786962,32.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,TSU,9.0,12.0,18.0,12.180045977702871,24.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,TSU,11.0,15.0,17.0,12.781871471064235,14.0,False,False,False,False,False,False
+2023,United States Grand Prix,TSU,11.0,8.0,15.333333333333334,12.255047378220105,24.0,False,False,False,False,False,True
+2023,Mexico City Grand Prix,TSU,15.0,12.0,11.666666666666666,12.9318742720987,31.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,TSU,16.0,9.0,11.666666666666666,13.39083424663262,29.0,False,False,False,False,False,True
+2023,Las Vegas Grand Prix,TSU,20.0,18.0,9.666666666666666,14.594485233355346,18.0,False,False,False,False,False,False
+2023,Abu Dhabi Grand Prix,TSU,6.0,8.0,13.0,9.222693775568716,16.0,False,False,False,False,False,True
+2024,Bahrain Grand Prix,TSU,11.0,14.0,11.666666666666666,11.096034373963017,21.0,False,False,False,False,False,False
+2022,Saudi Arabian Grand Prix,VER,4.0,1.0,19.0,10.201340560739744,18.0,False,False,False,True,True,True
+2022,Australian Grand Prix,VER,2.0,18.0,10.0,6.438570510313598,5.0,False,False,True,False,False,False
+2022,Emilia Romagna Grand Prix,VER,1.0,1.0,12.666666666666666,6.822529084330286,3.0,False,True,True,True,True,True
+2022,Miami Grand Prix,VER,3.0,1.0,6.666666666666667,5.843882299159256,5.0,False,False,True,True,True,True
+2022,Spanish Grand Prix,VER,2.0,1.0,6.666666666666667,5.384922324625336,4.0,False,False,True,True,True,True
+2022,Monaco Grand Prix,VER,4.0,3.0,1.0,4.511640358023133,3.0,False,True,True,False,True,True
+2022,Azerbaijan Grand Prix,VER,3.0,1.0,1.6666666666666667,4.263410020626864,3.0,False,True,True,True,True,True
+2022,Canadian Grand Prix,VER,1.0,1.0,1.6666666666666667,3.3454900715590226,2.0,False,True,True,True,True,True
+2022,British Grand Prix,VER,2.0,7.0,1.6666666666666667,3.804450046092944,2.0,False,True,True,False,False,True
+2022,Austrian Grand Prix,VER,1.0,2.0,3.0,3.7669493458343277,2.0,False,True,True,False,True,True
+2022,French Grand Prix,VER,2.0,1.0,3.3333333333333335,4.331274138937074,2.0,False,True,True,True,True,True
+2022,Hungarian Grand Prix,VER,10.0,1.0,3.3333333333333335,8.002953935208442,14.0,False,False,False,True,True,True
+2022,Belgian Grand Prix,VER,1.0,1.0,1.3333333333333333,3.2401252529901967,2.0,False,True,True,True,True,True
+2022,Dutch Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,1.0,True,True,True,True,True,True
+2022,Italian Grand Prix,VER,2.0,1.0,1.0,3.593720408955291,1.0,True,True,True,True,True,True
+2022,Singapore Grand Prix,VER,8.0,7.0,1.0,6.347480256158816,7.0,False,False,True,False,False,True
+2022,Japanese Grand Prix,VER,1.0,1.0,3.0,3.7669493458343277,2.0,False,True,True,True,True,True
+2022,United States Grand Prix,VER,3.0,1.0,3.0,4.684869294902169,4.0,False,False,True,True,True,True
+2022,Mexico City Grand Prix,VER,1.0,1.0,3.0,3.7669493458343277,1.0,True,True,True,True,True,True
+2022,São Paulo Grand Prix,VER,2.0,6.0,1.0,3.593720408955291,2.0,False,True,True,False,False,True
+2022,Abu Dhabi Grand Prix,VER,1.0,1.0,2.6666666666666665,3.661584527265501,2.0,False,True,True,True,True,True
+2023,Bahrain Grand Prix,VER,1.0,1.0,2.6666666666666665,3.661584527265501,2.0,False,True,True,True,True,True
+2023,Saudi Arabian Grand Prix,VER,15.0,2.0,2.6666666666666665,10.087024170740392,17.0,False,False,False,False,True,True
+2023,Australian Grand Prix,VER,1.0,1.0,1.3333333333333333,3.2401252529901967,1.0,True,True,True,True,True,True
+2023,Azerbaijan Grand Prix,VER,2.0,2.0,1.3333333333333333,3.6990852275241175,1.0,True,True,True,False,True,True
+2023,Miami Grand Prix,VER,9.0,1.0,1.6666666666666667,7.01716986783039,7.0,False,False,True,True,True,True
+2023,Monaco Grand Prix,VER,1.0,1.0,1.3333333333333333,3.2401252529901967,1.0,True,True,True,True,True,True
+2023,Spanish Grand Prix,VER,1.0,1.0,1.3333333333333333,3.2401252529901967,1.0,True,True,True,True,True,True
+2023,Canadian Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,1.0,True,True,True,True,True,True
+2023,Austrian Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,1.0,True,True,True,True,True,True
+2023,British Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,1.0,True,True,True,True,True,True
+2023,Hungarian Grand Prix,VER,2.0,1.0,1.0,3.593720408955291,1.0,True,True,True,True,True,True
+2023,Belgian Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,1.0,True,True,True,True,True,True
+2023,Dutch Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,2.0,False,True,True,True,True,True
+2023,Italian Grand Prix,VER,2.0,1.0,1.0,3.593720408955291,2.0,False,True,True,True,True,True
+2023,Singapore Grand Prix,VER,11.0,5.0,1.0,7.724360179760579,12.0,False,False,False,False,False,True
+2023,Japanese Grand Prix,VER,1.0,1.0,2.3333333333333335,3.556219708696675,1.0,True,True,True,True,True,True
+2023,Qatar Grand Prix,VER,1.0,1.0,2.3333333333333335,3.556219708696675,1.0,True,True,True,True,True,True
+2023,United States Grand Prix,VER,6.0,1.0,2.3333333333333335,5.8510195813662795,7.0,False,False,True,True,True,True
+2023,Mexico City Grand Prix,VER,3.0,1.0,1.0,4.0526803834892124,2.0,False,True,True,True,True,True
+2023,São Paulo Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,1.0,True,True,True,True,True,True
+2023,Las Vegas Grand Prix,VER,3.0,1.0,1.0,4.0526803834892124,1.0,True,True,True,True,True,True
+2023,Abu Dhabi Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,1.0,True,True,True,True,True,True
+2024,Bahrain Grand Prix,VER,1.0,1.0,1.0,3.1347604344213704,1.0,True,True,True,True,True,True
+2022,Emilia Romagna Grand Prix,VET,9.0,8.0,19.0,12.49614043340935,14.0,False,False,False,False,False,True
+2022,Miami Grand Prix,VET,13.0,17.0,13.5,12.593460825159402,24.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,VET,16.0,11.0,14.666666666666666,14.339117613752055,35.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,VET,9.0,10.0,12.0,10.283479243464,20.0,False,False,False,False,False,True
+2022,Azerbaijan Grand Prix,VET,9.0,6.0,12.666666666666666,10.494208880601652,20.0,False,False,False,False,False,True
+2022,Canadian Grand Prix,VET,17.0,12.0,9.0,13.006875672615932,30.0,False,False,False,False,False,False
+2022,British Grand Prix,VET,18.0,9.0,9.333333333333334,13.571200465718679,30.0,False,False,False,False,False,True
+2022,Austrian Grand Prix,VET,20.0,17.0,9.0,14.383755596217695,35.0,False,False,False,False,False,False
+2022,French Grand Prix,VET,14.0,11.0,12.666666666666666,12.789008753271256,14.0,False,False,False,False,False,False
+2022,Hungarian Grand Prix,VET,18.0,10.0,12.333333333333334,14.519483832838114,33.0,False,False,False,False,False,True
+2022,Belgian Grand Prix,VET,16.0,8.0,12.666666666666666,13.706928702339098,30.0,False,False,False,False,False,True
+2022,Dutch Grand Prix,VET,19.0,14.0,9.666666666666666,14.135525258821426,31.0,False,False,False,False,False,False
+2022,Italian Grand Prix,VET,17.0,20.0,10.666666666666666,13.533699765460062,27.0,False,False,False,False,False,False
+2022,Singapore Grand Prix,VET,14.0,8.0,14.0,13.210468027546561,28.0,False,False,False,False,False,True
+2022,Japanese Grand Prix,VET,9.0,6.0,14.0,10.915668154876958,21.0,False,False,False,False,False,True
+2022,United States Grand Prix,VET,12.0,8.0,11.333333333333334,11.449629529928112,21.0,False,False,False,False,False,True
+2022,Mexico City Grand Prix,VET,17.0,14.0,7.333333333333333,12.480051579771802,27.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,VET,13.0,11.0,9.333333333333334,11.276400593049075,21.0,False,False,False,False,False,False
+2022,Abu Dhabi Grand Prix,VET,9.0,10.0,11.0,9.967384787757522,18.0,False,False,False,False,False,True
+2022,Saudi Arabian Grand Prix,ZHO,13.0,11.0,10.0,11.487130230186727,21.0,False,False,False,False,False,False
+2022,Australian Grand Prix,ZHO,14.0,11.0,10.5,12.104137432573888,25.0,False,False,False,False,False,False
+2022,Emilia Romagna Grand Prix,ZHO,14.0,15.0,10.666666666666666,12.1568198418583,13.0,False,False,False,False,False,False
+2022,Miami Grand Prix,ZHO,17.0,20.0,12.333333333333334,14.060523858304194,34.0,False,False,False,False,False,False
+2022,Spanish Grand Prix,ZHO,15.0,19.0,15.333333333333334,14.090887276355788,32.0,False,False,False,False,False,False
+2022,Monaco Grand Prix,ZHO,20.0,16.0,18.0,17.228605697576,40.0,False,False,False,False,False,False
+2022,Azerbaijan Grand Prix,ZHO,14.0,18.0,18.333333333333332,14.580210668941302,33.0,False,False,False,False,False,False
+2022,Canadian Grand Prix,ZHO,10.0,8.0,17.666666666666668,12.533641133667967,26.0,False,False,False,False,False,True
+2022,British Grand Prix,ZHO,9.0,19.0,14.0,10.915668154876958,23.0,False,False,False,False,False,False
+2022,Austrian Grand Prix,ZHO,18.0,14.0,15.0,15.362402381388724,36.0,False,False,False,False,False,False
+2022,French Grand Prix,ZHO,18.0,16.0,13.666666666666666,14.94094310711342,19.0,False,False,False,False,False,False
+2022,Hungarian Grand Prix,ZHO,12.0,13.0,16.333333333333332,13.030101808460502,30.0,False,False,False,False,False,False
+2022,Belgian Grand Prix,ZHO,13.0,14.0,14.333333333333334,12.856872871581468,25.0,False,False,False,False,False,False
+2022,Dutch Grand Prix,ZHO,14.0,16.0,14.333333333333334,13.315832846115388,28.0,False,False,False,False,False,False
+2022,Italian Grand Prix,ZHO,14.0,10.0,14.333333333333334,13.315832846115388,26.0,False,False,False,False,False,True
+2022,Singapore Grand Prix,ZHO,15.0,20.0,13.333333333333334,13.45869836494283,29.0,False,False,False,False,False,False
+2022,Japanese Grand Prix,ZHO,14.0,16.0,15.333333333333334,13.631927301821866,29.0,False,False,False,False,False,False
+2022,United States Grand Prix,ZHO,14.0,12.0,15.333333333333334,13.631927301821866,30.0,False,False,False,False,False,False
+2022,Mexico City Grand Prix,ZHO,12.0,13.0,16.0,12.924736989891677,29.0,False,False,False,False,False,False
+2022,São Paulo Grand Prix,ZHO,17.0,12.0,13.666666666666666,14.481983132579497,35.0,False,False,False,False,False,False
+2022,Abu Dhabi Grand Prix,ZHO,15.0,12.0,12.333333333333334,13.142603909236351,30.0,False,False,False,False,False,False
+2023,Bahrain Grand Prix,ZHO,13.0,16.0,12.333333333333334,12.22468396016851,25.0,False,False,False,False,False,False
+2023,Saudi Arabian Grand Prix,ZHO,12.0,13.0,13.333333333333334,12.081818441341067,23.0,False,False,False,False,False,False
+2023,Australian Grand Prix,ZHO,17.0,9.0,13.666666666666666,14.481983132579497,34.0,False,False,False,False,False,True
+2023,Azerbaijan Grand Prix,ZHO,16.0,19.0,12.666666666666666,13.706928702339098,29.0,False,False,False,False,False,False
+2023,Miami Grand Prix,ZHO,14.0,16.0,13.666666666666666,13.105103208977734,30.0,False,False,False,False,False,False
+2023,Monaco Grand Prix,ZHO,19.0,13.0,14.666666666666666,15.715997537353818,38.0,False,False,False,False,False,False
+2023,Spanish Grand Prix,ZHO,13.0,9.0,16.0,13.383696964425598,29.0,False,False,False,False,False,True
+2023,Canadian Grand Prix,ZHO,20.0,16.0,12.666666666666666,15.542768600474782,37.0,False,False,False,False,False,False
+2023,Austrian Grand Prix,ZHO,17.0,12.0,12.666666666666666,14.165888676873019,34.0,False,False,False,False,False,False
+2023,British Grand Prix,ZHO,17.0,15.0,12.333333333333334,14.060523858304194,32.0,False,False,False,False,False,False
+2023,Hungarian Grand Prix,ZHO,5.0,16.0,14.333333333333334,9.1851930753101,16.0,False,False,False,False,False,False
+2023,Belgian Grand Prix,ZHO,17.0,13.0,14.333333333333334,14.69271276971715,32.0,False,False,False,False,False,False
+2023,Dutch Grand Prix,ZHO,16.0,18.0,14.666666666666666,14.339117613752055,33.0,False,False,False,False,False,False
+2023,Italian Grand Prix,ZHO,16.0,14.0,15.666666666666666,14.655212069458534,32.0,False,False,False,False,False,False
+2023,Singapore Grand Prix,ZHO,19.0,12.0,15.0,15.821362355922645,37.0,False,False,False,False,False,False
+2023,Japanese Grand Prix,ZHO,19.0,13.0,14.666666666666666,15.715997537353818,38.0,False,False,False,False,False,False
+2023,Qatar Grand Prix,ZHO,20.0,9.0,13.0,15.648133419043608,20.0,False,False,False,False,False,True
+2023,United States Grand Prix,ZHO,12.0,13.0,11.333333333333334,11.449629529928112,22.0,False,False,False,False,False,False
+2023,Mexico City Grand Prix,ZHO,10.0,14.0,11.666666666666666,10.637074399429094,20.0,False,False,False,False,False,False
+2023,São Paulo Grand Prix,ZHO,20.0,17.0,12.0,15.33203896333713,37.0,False,False,False,False,False,False
+2023,Las Vegas Grand Prix,ZHO,18.0,15.0,14.666666666666666,15.257037562819898,20.0,False,False,False,False,False,False
+2023,Abu Dhabi Grand Prix,ZHO,19.0,17.0,15.333333333333334,15.926727174491472,38.0,False,False,False,False,False,False
+2024,Bahrain Grand Prix,ZHO,17.0,11.0,16.333333333333332,15.324901681130108,36.0,False,False,False,False,False,False
