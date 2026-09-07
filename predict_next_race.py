@@ -36,7 +36,7 @@ latest_dnf_risk = data.groupby('Driver')['IsDNF'].apply(lambda x: x.mean())
 
 # Pull the REAL qualifying grid automatically once it exists
 year = 2026
-round_number = 17  # CHECK this matches the Spanish GP round number for 2026 - run the schedule check first
+round_number = 14  # Spanish Grand Prix, confirmed via schedule check (2026-09-13)
 
 quali = fastf1.get_session(year, round_number, 'Q')
 quali.load(laps=False, telemetry=False, weather=False)
@@ -67,10 +67,16 @@ for _, row in quali_results.iterrows():
     else:
         missing.append(driver)
 
-predictions_df = pd.DataFrame(predictions).sort_values('PredictedPosition').reset_index(drop=True)
-predictions_df['PredictedRank'] = predictions_df.index + 1
+predictions_df = pd.DataFrame(predictions)
 
-print(f"\n{year} Spanish Grand Prix - Prediction (using live qualifying results)\n")
-print(predictions_df[['PredictedRank', 'Driver', 'QualiPosition', 'DNFRiskPercent']].round(1).to_string(index=False))
-if missing:
-    print("\nNo history:", missing)
+if predictions_df.empty:
+    print(f"\nNo qualifying data available yet for {year} Round {round_number}.")
+    print("This likely means qualifying hasn't happened yet - try again after it finishes.")
+else:
+    predictions_df = predictions_df.sort_values('PredictedPosition').reset_index(drop=True)
+    predictions_df['PredictedRank'] = predictions_df.index + 1
+
+    print(f"\n{year} Spanish Grand Prix - Prediction (using live qualifying results)\n")
+    print(predictions_df[['PredictedRank', 'Driver', 'QualiPosition', 'DNFRiskPercent']].round(1).to_string(index=False))
+    if missing:
+        print("\nNo history:", missing)
